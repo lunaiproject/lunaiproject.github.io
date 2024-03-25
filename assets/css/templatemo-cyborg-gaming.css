@@ -400,18 +400,9 @@ Header Style
   font-size: 16px;
 }
 
-.header-area .main-nav .logo {
-  border-right: 1px solid #27292a;
-  flex-basis: 25%;
-  margin-right: 5%;
-  -webkit-transition: all 0.3s ease 0s;
-  -moz-transition: all 0.3s ease 0s;
-  -o-transition: all 0.3s ease 0s;
-  transition: all 0.3s ease 0s;
-}
-
 .header-area .main-nav .logo img {
-  width: 191px;
+  width: 260px;
+  margin-left: 40px;
 }
 
 .background-header .main-nav .logo {
@@ -479,7 +470,7 @@ Header Style
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #F8FF95 !important;
+  color: white !important;
 }
 
 .header-area .main-nav .nav li:last-child:hover a,
