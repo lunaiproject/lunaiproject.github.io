@@ -1,0 +1,13 @@
+
+.text-button {
+    background-color: transparent; /* Makes the background transparent */
+    border: none; /* Removes the border */
+    color: #aaa; /* Initial text color */
+    cursor: pointer; /* Changes the mouse cursor to signify it's clickable */
+    padding: 0; /* Removes padding */
+
+}
+
+.text-button:hover {
+    color: #975ecc; /* Text color on hover */
+}
