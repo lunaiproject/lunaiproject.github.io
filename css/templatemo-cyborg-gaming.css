@@ -87,11 +87,11 @@ html, body {
 }
 
 a {
-	color: #CCC;
+	color: #fff;
   text-decoration: none !important;
 }
 a:hover {
-	color: #F99;
+	color: #975ecc;
 }
 
 h1, h2, h3, h4, h5, h6 {
