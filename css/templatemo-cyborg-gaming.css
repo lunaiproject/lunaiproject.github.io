@@ -342,7 +342,7 @@ Header Style
 */
 
 .background-header {
-  background-color: transparent !important;
+  background-color: #101111d2 !important;
   height: 70px!important;
   position: fixed!important;
   top: 0!important;
@@ -667,7 +667,7 @@ Header Style
     width: 100%;
   }
   .header-area {
-    background-color: #f7f7f7;
+    background-color: transparent;
     padding: 0px 15px;
     height: 80px;
     box-shadow: none;
@@ -703,12 +703,12 @@ Header Style
     margin-top: 70px !important;
   }
   .header-area .main-nav .nav li:first-child {
-    border-top: 1px solid #eee;
+    border-top: 1px solid transparent;
   }
   .header-area .main-nav .nav li {
     width: 100%;
-    background: #fff;
-    border-bottom: 1px solid #eee;
+    background: transparent;
+    border-bottom: 1px solid transparent;
     padding-left: 0px !important;
     padding-right: 0px !important;
   }
@@ -717,8 +717,8 @@ Header Style
     line-height: 50px !important;
     padding: 0px !important;
     border: none !important;
-    background: #fff !important;
-    color: #1e1e1e !important;
+    background: #101111d2 !important;
+    color: #fff !important;
   }
   .header-area .main-nav .nav li a:hover {
     background: #fff !important;
