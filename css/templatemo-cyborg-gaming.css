@@ -839,6 +839,174 @@ Banner Style
   color: #fff;
 }
 
+.singers2-banner {
+  background-image: url(../images/banner-bg-clean.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 290px;
+  border-radius: 23px;
+  padding: 80px 60px;
+}
+
+.singers2-banner h6 {
+  font-size: 20px;
+  color: transparent;
+  font-weight: 400;
+  margin-bottom: 25px;
+  background: transparent;
+  border: solid transparent;
+  border-width: 10px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-radius: 23px;
+  display: inline;
+}
+
+.singers2-banner h4 {
+  font-size: 45px;
+  color: transparent;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+  background: transparent;
+  border: solid transparent;
+  border-width: 10px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-radius: 23px;
+  display: inline;
+}
+
+.singers2-banner h4 em {
+  font-style: normal;
+  color: transparent;
+}
+
+.mille-banner {
+  background-image: url(../singers/millefeuille/banner-bg-mille.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 300px;
+  border-radius: 23px;
+  padding: 80px 60px;
+}
+
+.mille-banner h6 {
+  font-size: 20px;
+  color: transparent;
+  font-weight: 400;
+  margin-bottom: 25px;
+  background: transparent;
+  border: solid transparent;
+  border-width: 10px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-radius: 23px;
+  display: inline;
+}
+
+.mille-banner h4 {
+  font-size: 45px;
+  color: transparent;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+  background: transparent;
+  border: solid transparent;
+  border-width: 10px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-radius: 23px;
+  display: inline;
+}
+
+.mille-banner h4 em {
+  font-style: normal;
+  color: #fff;
+}
+
+.lunai-s-banner {
+  background-image: url(../images/banner-bg-lunai.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 300px;
+  border-radius: 23px;
+  padding: 80px 60px;
+}
+
+.lunai-s-banner h6 {
+  font-size: 20px;
+  color: transparent;
+  font-weight: 400;
+  margin-bottom: 25px;
+  background: transparent;
+  border: solid transparent;
+  border-width: 10px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-radius: 23px;
+  display: inline;
+}
+
+.lunai-s-banner h4 {
+  font-size: 45px;
+  color: transparent;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+  background: transparent;
+  border: solid transparent;
+  border-width: 10px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-radius: 23px;
+  display: inline;
+}
+
+.lunai-s-banner h4 em {
+  font-style: normal;
+  color: #fff;
+}
+
+.brapa-banner {
+  background-image: url(../images/banner-bg-brapa.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 300px;
+  border-radius: 23px;
+  padding: 80px 60px;
+}
+
+.brapa-banner h6 {
+  font-size: 20px;
+  color: transparent;
+  font-weight: 400;
+  margin-bottom: 25px;
+  background: transparent;
+  border: solid transparent;
+  border-width: 10px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-radius: 23px;
+  display: inline;
+}
+
+.brapa-banner h4 {
+  font-size: 45px;
+  color: transparent;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+  background: transparent;
+  border: solid transparent;
+  border-width: 10px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-radius: 23px;
+  display: inline;
+}
+
+.brapa-banner h4 em {
+  font-style: normal;
+  color: #fff;
+}
+
 /* 
 ---------------------------------------------
 Most Popular Style
