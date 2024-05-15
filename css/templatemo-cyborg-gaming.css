@@ -930,6 +930,7 @@ Banner Style
   min-height: 300px;
   border-radius: 23px;
   padding: 80px 60px;
+  box-shadow: 0px 0px 50px 10px #646464;
 }
 
 .coda-banner h6 {
@@ -1014,6 +1015,7 @@ Banner Style
   min-height: 300px;
   border-radius: 23px;
   padding: 80px 60px;
+  box-shadow: 0px 0px 50px 10px #646464;
 }
 
 .brapa-banner h6 {
