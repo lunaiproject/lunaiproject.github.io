@@ -116,6 +116,11 @@ img {
   overflow: hidden;
 }
 
+video {
+  width: 100%;
+  overflow: hidden;
+}
+
 /* 
 ---------------------------------------------
 Global Styles
@@ -123,13 +128,13 @@ Global Styles
 */
 html,
 body {
-  background: #1f2122;
+  background-image: url(../images/background-body.jpg);
   font-family: 'Poppins', sans-serif;
 }
 
 body .page-content {
   margin-top: 110px;
-  background-color: #27292a;
+  background-color: #1d1c1f;
   padding: 60px;
   border-radius: 23px;
 }
@@ -174,6 +179,201 @@ p {
 .main-button a:hover {
   background-color: #fff;
   color: #975ecc;
+}
+
+.main-button .crow a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #3f213f;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .crow a:hover {
+  background-color: #fff;
+  color: #3f213f;
+}
+
+.main-button .keiro a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #244373;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .keiro a:hover {
+  background-color: #fff;
+  color: #244373;
+}
+
+.main-button .ashera a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #252e55;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .ashera a:hover {
+  background-color: #fff;
+  color: #252e55;
+}
+
+.main-button .nero a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #861826;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .nero a:hover {
+  background-color: #fff;
+  color: #861826;
+}
+
+.main-button .minto a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #cc9620;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .minto a:hover {
+  background-color: #fff;
+  color: #cc9620;
+}
+
+.main-button .monone a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #760000;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .monone a:hover {
+  background-color: #fff;
+  color: #760000;
+}
+
+.main-button .cipher a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #2c4964;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .cipher a:hover {
+  background-color: #fff;
+  color: #2c4964;
+}
+
+.main-button .kuro a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #de2835;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .kuro a:hover {
+  background-color: #fff;
+  color: #de2835;
+}
+
+.main-button .gatito a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #1e242f;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .gatito a:hover {
+  background-color: #fff;
+  color: #1e242f;
+}
+
+.main-button .new a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #359655;
+  padding: 14px 14px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
 }
 
 .main-border-button a {
@@ -388,7 +588,7 @@ Header Style
 }
 
 .header-area .main-nav #search input {
-  background-color: #27292a;
+  background-color: #1d1c1f;
   height: 46px;
   border-radius: 23px;
   border: none;
@@ -459,7 +659,7 @@ Header Style
 }
 
 .header-area .main-nav .nav li:last-child a {
-  background-color: #27292a;
+  background-color: #1d1c1f;
   padding: 8px 10px 8px 20px;
   border-radius: 23px;
 }
@@ -771,12 +971,13 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(../images/banner-bg-main.jpg);
   background-position: center center;
   background-size: cover;
   min-height: 380px;
   border-radius: 23px;
   padding: 80px 60px;
+  filter: drop-shadow(0 0 2rem #18171b);
 }
 
 .main-banner h6 {
@@ -793,6 +994,34 @@ Banner Style
 }
 
 .main-banner h4 em {
+  font-style: normal;
+  color: #975ecc;
+}
+
+.main-banner-2 {
+  background-image: url(../images/banner-bg-main-2.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 380px;
+  border-radius: 23px;
+  padding: 80px 60px;
+  filter: drop-shadow(0 0 2rem #18171b);
+}
+
+.main-banner-2 h6 {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 400;
+  margin-bottom: 25px;
+}
+
+.main-banner-2 h4 {
+  font-size: 45px;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+
+.main-banner-2 h4 em {
   font-style: normal;
   color: #975ecc;
 }
@@ -882,88 +1111,43 @@ Banner Style
 }
 
 .mille-banner {
-  background-image: url(../singers/millefeuille/banner-bg-mille.jpg);
+  background-image: url(../singers/others/banner-bg-mille.jpg);
   background-position: center center;
   background-size: cover;
   min-height: 300px;
   border-radius: 23px;
   padding: 80px 60px;
-}
-
-.mille-banner h6 {
-  font-size: 20px;
-  color: transparent;
-  font-weight: 400;
-  margin-bottom: 25px;
-  background: transparent;
-  border: solid transparent;
-  border-width: 10px;
-  border-top: 0px;
-  border-bottom: 0px;
-  border-radius: 23px;
-  display: inline;
-}
-
-.mille-banner h4 {
-  font-size: 45px;
-  color: transparent;
-  text-transform: uppercase;
-  margin-bottom: 25px;
-  background: transparent;
-  border: solid transparent;
-  border-width: 10px;
-  border-top: 0px;
-  border-bottom: 0px;
-  border-radius: 23px;
-  display: inline;
-}
-
-.mille-banner h4 em {
-  font-style: normal;
-  color: #fff;
+  filter: drop-shadow(0 0 2rem #18171b);
 }
 
 .coda-banner {
-  background-image: url(../singers/millefeuille/banner-bg-coda.jpg);
+  background-image: url(../singers/others/banner-bg-coda.jpg);
   background-position: center center;
   background-size: cover;
   min-height: 300px;
   border-radius: 23px;
   padding: 80px 60px;
-  box-shadow: 0px 0px 50px 10px #646464;
+  filter: drop-shadow(0 0 2rem #18171b);
 }
 
-.coda-banner h6 {
-  font-size: 20px;
-  color: transparent;
-  font-weight: 400;
-  margin-bottom: 25px;
-  background: transparent;
-  border: solid transparent;
-  border-width: 10px;
-  border-top: 0px;
-  border-bottom: 0px;
+.brapa-banner {
+  background-image: url(../singers/others/banner-bg-brapa.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 300px;
   border-radius: 23px;
-  display: inline;
+  padding: 80px 60px;
+  filter: drop-shadow(0 0 2rem #18171b);
 }
 
-.coda-banner h4 {
-  font-size: 45px;
-  color: transparent;
-  text-transform: uppercase;
-  margin-bottom: 25px;
-  background: transparent;
-  border: solid transparent;
-  border-width: 10px;
-  border-top: 0px;
-  border-bottom: 0px;
+.tigermeat-banner {
+  background-image: url(../singers/others/banner-bg-tigermeat.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 300px;
   border-radius: 23px;
-  display: inline;
-}
-
-.coda-banner h4 em {
-  font-style: normal;
-  color: #fff;
+  padding: 80px 60px;
+  filter: drop-shadow(0 0 2rem #18171b);
 }
 
 .lunai-s-banner {
@@ -973,6 +1157,7 @@ Banner Style
   min-height: 300px;
   border-radius: 23px;
   padding: 80px 60px;
+  filter: drop-shadow(0 0 2rem #18171b);
 }
 
 .lunai-s-banner h6 {
@@ -1008,49 +1193,6 @@ Banner Style
   color: #fff;
 }
 
-.brapa-banner {
-  background-image: url(../images/banner-bg-brapa.jpg);
-  background-position: center center;
-  background-size: cover;
-  min-height: 300px;
-  border-radius: 23px;
-  padding: 80px 60px;
-  box-shadow: 0px 0px 50px 10px #646464;
-}
-
-.brapa-banner h6 {
-  font-size: 20px;
-  color: transparent;
-  font-weight: 400;
-  margin-bottom: 25px;
-  background: transparent;
-  border: solid transparent;
-  border-width: 10px;
-  border-top: 0px;
-  border-bottom: 0px;
-  border-radius: 23px;
-  display: inline;
-}
-
-.brapa-banner h4 {
-  font-size: 45px;
-  color: transparent;
-  text-transform: uppercase;
-  margin-bottom: 25px;
-  background: transparent;
-  border: solid transparent;
-  border-width: 10px;
-  border-top: 0px;
-  border-bottom: 0px;
-  border-radius: 23px;
-  display: inline;
-}
-
-.brapa-banner h4 em {
-  font-style: normal;
-  color: #fff;
-}
-
 /* 
 ---------------------------------------------
 Most Popular Style
@@ -1060,12 +1202,12 @@ Most Popular Style
 .most-popular {
   margin-top: 60px;
   padding: 30px;
-  background-color: #1f2122;
+  background-color: #18171b;
   border-radius: 23px;
 }
 
 .most-popular .item {
-  background-color: #27292a;
+  background-color: #1d1c1f;
   padding: 30px 15px;
   border-radius: 23px;
   margin-bottom: 30px;
@@ -1079,6 +1221,10 @@ Most Popular Style
 }
 
 .most-popular .item img {
+  border-radius: 23px;
+}
+
+.most-popular .item video {
   border-radius: 23px;
 }
 
@@ -1129,12 +1275,12 @@ Gaming Library Style
 .latest-news {
   margin-top: 60px;
   padding: 30px;
-  background-color: #1f2122;
+  background-color: #18171b;
   border-radius: 23px;
 }
 
 .latest-news .item {
-  border-bottom: 1px solid #27292a;
+  border-bottom: 1px solid #1d1c1f;
   margin-bottom: 20px;
   padding-bottom: 20px;
 }
@@ -1216,7 +1362,7 @@ Featured Games Style
 
 .featured-games {
   border-radius: 23px;
-  background-color: #1f2122;
+  background-color: #18171b;
   padding: 30px;
 }
 
@@ -1320,7 +1466,7 @@ Featured Games Style
 
 .top-downloaded {
   border-radius: 23px;
-  background-color: #1f2122;
+  background-color: #18171b;
   padding: 30px;
   max-height: 567px;
   min-height: 567px;
@@ -1366,12 +1512,12 @@ Featured Games Style
   text-align: center;
   line-height: 46px;
   color: #975ecc;
-  background-color: #27292a;
+  background-color: #1d1c1f;
   border-radius: 50%;
 }
 
 .top-downloaded ul li {
-  border-bottom: 1px solid #27292a;
+  border-bottom: 1px solid #1d1c1f;
   margin-bottom: 28px;
   padding-bottom: 28px;
 }
@@ -1425,7 +1571,7 @@ Live Stream Style
 .live-stream {
   margin-top: 60px;
   border-radius: 23px;
-  background-color: #1f2122;
+  background-color: #1a1c1d;
   padding: 30px;
 }
 
@@ -1567,11 +1713,11 @@ Game Details Style
 .game-details .content {
   border-radius: 23px;
   padding: 30px;
-  background-color: #1f2122;
+  background-color: #18171b;
 }
 
 .game-details .content .left-info {
-  background-color: #27292a;
+  background-color: #1d1c1f;
   border-radius: 23px;
   padding: 30px;
   margin-bottom: 30px;
@@ -1612,7 +1758,7 @@ Game Details Style
 }
 
 .game-details .content .right-info {
-  background-color: #27292a;
+  background-color: #1d1c1f;
   border-radius: 23px;
   padding: 30px;
   margin-bottom: 30px;
@@ -1657,13 +1803,13 @@ Other Related Style
 .other-games {
   border-radius: 23px;
   padding: 30px 30px 0px 30px;
-  background-color: #1f2122;
+  background-color: #18171b;
   margin-top: 60px;
 }
 
 .other-games .item {
   position: relative;
-  border-bottom: 1px solid #27292a;
+  border-bottom: 1px solid #1d1c1f;
   padding-bottom: 52px;
   margin-bottom: 30px;
 }
@@ -1714,7 +1860,7 @@ Top Streamers Style
 
 .top-streamers {
   border-radius: 23px;
-  background-color: #1f2122;
+  background-color: #18171b;
   padding: 30px;
   max-height: 567px;
   min-height: 567px;
@@ -1780,7 +1926,7 @@ Profile Style
 .main-profile {
   border-radius: 23px;
   padding: 30px;
-  background-color: #1f2122;
+  background-color: #18171b;
 }
 
 .main-profile .main-info span {
@@ -1807,7 +1953,7 @@ Profile Style
 .main-profile ul {
   border-radius: 23px;
   padding: 30px;
-  background-color: #27292a;
+  background-color: #1d1c1f;
 }
 
 .main-profile ul li {
@@ -1833,7 +1979,7 @@ Profile Style
 
 .clips {
   margin-top: 30px;
-  border-top: 2px solid #27292a;
+  border-top: 2px solid #1d1c1f;
 }
 
 .clips .heading-section {
@@ -1843,7 +1989,7 @@ Profile Style
 .clips .item  {
   border-radius: 23px;
   padding: 30px 15px;
-  background-color: #27292a;
+  background-color: #1d1c1f;
   margin-bottom: 30px;
 }
 
