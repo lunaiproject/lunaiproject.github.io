@@ -1111,7 +1111,7 @@ Banner Style
 }
 
 .mille-banner {
-  background-image: url(../singers/others/banner-bg-mille.jpg);
+  background-image: url(../singers/others/banner-bg-mille.webp);
   background-position: center center;
   background-size: cover;
   min-height: 300px;
@@ -1121,7 +1121,7 @@ Banner Style
 }
 
 .coda-banner {
-  background-image: url(../singers/others/banner-bg-coda.jpg);
+  background-image: url(../singers/others/banner-bg-coda.webp);
   background-position: center center;
   background-size: cover;
   min-height: 300px;
@@ -1131,7 +1131,7 @@ Banner Style
 }
 
 .brapa-banner {
-  background-image: url(../singers/others/banner-bg-brapa.jpg);
+  background-image: url(../singers/others/banner-bg-brapa.webp);
   background-position: center center;
   background-size: cover;
   min-height: 300px;
@@ -1141,7 +1141,7 @@ Banner Style
 }
 
 .tigermeat-banner {
-  background-image: url(../singers/others/banner-bg-tigermeat.jpg);
+  background-image: url(../singers/others/banner-bg-tigermeat.webp);
   background-position: center center;
   background-size: cover;
   min-height: 300px;
