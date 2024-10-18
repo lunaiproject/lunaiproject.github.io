@@ -68,8 +68,8 @@
               <div class="main-profile" style="background-image: url(../../images/background-2.webp);">
                 <div class="row">
                   <div class="col-lg-4">
-                    <img src="images/monone-portrait.png" alt="" style="border-radius: 23px;">
-                    <p style="text-align:center; margin-top: 6px;"><i class="fa fa-paint-brush"></i> Rezo-Sempai</p>
+                    <img src="images/monone-portrait.webp" alt="" style="border-radius: 23px;">
+                    <p style="text-align:center; margin-top: 6px;"><i class="fa fa-paint-brush"></i> KUNGOM</p>
                   </div>
                   <div class="col-lg-4 align-self-center" style="text-align: center;">
                     <div class="main-info header-text">
@@ -77,7 +77,7 @@
                       <p>Powerful virtual singer from another world</p>
                       <p style="margin-top: -10px;">CV: raikonenightmare</p>
                       <div class="main-button">
-                        <div class="monone"><a href="https://github.com/lunaiproject/lunai_singers/releases/download/singers/Monone_v110.zip" style="margin-top: 120px; width: 180; text-align: center;">Download<br>Voice Model</a></div>
+                        <div class="monone"><a href="https://github.com/lunaiproject/lunai_singers/releases/download/Monone/Monone_v120.zip" style="margin-top: 120px; width: 180; text-align: center;">Download<br>Voice Model</a></div>
                         <div class="ashera"><a href="../../howtouse/index.html" style="margin-top: 20px; width: 180; text-align: center;">How to<br>Install</a></div>
                       </div>
                     </div>
@@ -141,13 +141,16 @@
                   <div class="col-lg-12 align-self-center">
                     <ul>
                       <li>Native language <span>Japanese</span></li>
-                      <li>Additional languages <span>English, Japanese, French, Spanish, Italian, Portuguese, German, Korean, Ukrainian and Arabic</span></li>
-                      <li>Vocal modes <span>Standard, Falsetto, Masculine</span></li>
-                      <li>Data size <span>about 1.5 hours</span></li>
+                      <li>Additional languages (fully supported)<span>English, Russian, French, Korean, Thai, Chinese</span></li>
+                      <li>Additional languages (indirectly supported)<span>Spanish, Italian, Portuguese, German, Ukrainian, Arabic</span></li>
+                      <li>Vocal modes <span>Standard, Falsetto, Masculine, Growl</span></li>
+                      <li>Supported expressions <span>Tension (curve), Velocity (curve), Gender (curve), Pitch Expressiveness (curve)</span></li>
                       <li>Voice provider <span>raikonenightmare</span></li>
-                      <li>Character co-author <span>Victor Von Drew</span></li>
-                      <li>Data used for multi-language <span>Chikano1582, LOP-P, Tigermeat, Mim, Gyromancy, Kungom, VictorVonDrew</span></li>
+                      <li>Character author <span>Victor Von Drew</span></li>
                       <li>Production <span>keirokeer, mii-chandesu, serverpodivan</span></li>
+                      <li>Data size <span>10+ hours</span></li>
+                      <li>Data used for multi-language <span>Chikano1582, LOP-P, Kungom, PRINTmov, Tigermeat, Miyo, M4Singer, Mim, Gyromancy, VictorVonDrew</span></li>
+                      <li>Additional assistance <span>Tigermeat, PixPrucer</span></li>
                     </ul>
                   </div>
                 </div>
@@ -166,68 +169,123 @@
                     <h3 style="text-align:center;">Multi-language demonstration</h3>
                   </div>
                   <br><br>
-                  <div class="col-lg-3">
+
+                  <div class="col-lg-3" style="margin-bottom: 40px; margin-top: 20px;">
                     <p style="text-align:center;"><i class="fa fa-wave-square"></i> Russian</p>
                     <ul>
-                      <li><h5><audio id="4 demo" src="../../audio/katyusha_05_standard.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('4 demo', this)">
+                      <li><h5><audio id="2st" src="../../audio/katyusha_05_standard.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('2st', this)">
                         <i class="fa fa-play fa-fw"></i> Standard</h5></li>
-                      <li><h5><audio id="5 demo" src="../../audio/katyusha_05_falsetto.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('5 demo', this)">
+                      <li><h5><audio id="2so" src="../../audio/katyusha_05_falsetto.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('2so', this)">
                         <i class="fa fa-play fa-fw"></i> Falsetto</h5></li>
-                      <li><h5><audio id="6 demo" src="../../audio/katyusha_05_masculine.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('6 demo', this)">
+                      <li><h5><audio id="2wh" src="../../audio/katyusha_05_masculine.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('2wh', this)">
                         <i class="fa fa-play fa-fw"></i> Masculine</h5></li>
                     </ul>
                     <p style="text-align:center; margin-top: 6px;"><i class="fa fa-music"></i> Катюша (Katyusha)</p>
                   </div>
-                  <div class="col-lg-3">
+
+                  <div class="col-lg-3" style="margin-bottom: 40px; margin-top: 20px;">
                     <p style="text-align:center;"><i class="fa fa-wave-square"></i> English</p>
                     <ul>
-                      <li><h5><audio id="7 demo" src="../../audio/clementine_05_standard.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('7 demo', this)">
+                      <li><h5><audio id="3st" src="../../audio/twinkle_05_standard.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('3st', this)">
                         <i class="fa fa-play fa-fw"></i> Standard</h5></li>
-                      <li><h5><audio id="8 demo" src="../../audio/clementine_05_falsetto.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('8 demo', this)">
+                      <li><h5><audio id="3so" src="../../audio/twinkle_05_falsetto.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('3so', this)">
                         <i class="fa fa-play fa-fw"></i> Falsetto</h5></li>
-                      <li><h5><audio id="9 demo" src="../../audio/clementine_05_masculine.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('9 demo', this)">
+                      <li><h5><audio id="3wh" src="../../audio/twinkle_05_masculine.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('3wh', this)">
                         <i class="fa fa-play fa-fw"></i> Masculine</h5></li>
                     </ul>
-                    <p style="text-align:center; margin-top: 6px;"><i class="fa fa-music"></i> Oh My Darling Clementine</p>
+                    <p style="text-align:center; margin-top: 6px;"><i class="fa fa-music"></i> Twinkle, Twinkle, Little Star</p>
                   </div>
-                  <div class="col-lg-3">
+
+                  <div class="col-lg-3" style="margin-bottom: 40px; margin-top: 20px;">
                     <p style="text-align:center;"><i class="fa fa-wave-square"></i> French</p>
                     <ul>
-                      <li><h5><audio id="10 demo" src="../../audio/synthimentale_05_standard.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('10 demo', this)">
+                      <li><h5><audio id="4st" src="../../audio/synthimentale_05_standard.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('4st', this)">
                         <i class="fa fa-play fa-fw"></i> Standard</h5></li>
-                      <li><h5><audio id="11 demo" src="../../audio/synthimentale_05_falsetto.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('11 demo', this)">
+                      <li><h5><audio id="4so" src="../../audio/synthimentale_05_falsetto.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('4so', this)">
                         <i class="fa fa-play fa-fw"></i> Falsetto</h5></li>
-                      <li><h5><audio id="12 demo" src="../../audio/synthimentale_05_masculine.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('12 demo', this)">
+                      <li><h5><audio id="4wh" src="../../audio/synthimentale_05_masculine.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('4wh', this)">
                         <i class="fa fa-play fa-fw"></i> Masculine</h5></li>
                     </ul>
                     <p style="text-align:center; margin-top: 6px;"><i class="fa fa-music"></i> Synthimentale by Conslo</p>
                     <p style="text-align:center; margin-top: -6px;"><i class="fa fa-file-waveform"></i> UST by UFR</p>
                   </div>
-                  <div class="col-lg-3">
+
+                  <div class="col-lg-3" style="margin-bottom: 40px; margin-top: 20px;">
                     <p style="text-align:center;"><i class="fa fa-wave-square"></i> Korean</p>
                     <ul>
-                      <li><h5><audio id="13 demo" src="../../audio/boundary_05_standard.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('13 demo', this)">
+                      <li><h5><audio id="5st" src="../../audio/boundary_05_standard.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('5st', this)">
                         <i class="fa fa-play fa-fw"></i> Standard</h5></li>
-                      <li><h5><audio id="14 demo" src="../../audio/boundary_05_falsetto.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('14 demo', this)">
+                      <li><h5><audio id="5so" src="../../audio/boundary_05_falsetto.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('5so', this)">
                         <i class="fa fa-play fa-fw"></i> Falsetto</h5></li>
-                      <li><h5><audio id="15 demo" src="../../audio/boundary_05_masculine.mp3"></audio>
-                        <button class="text-button" onclick="togglePlayStop('15 demo', this)">
+                      <li><h5><audio id="5wh" src="../../audio/boundary_05_masculine.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('5wh', this)">
                         <i class="fa fa-play fa-fw"></i> Masculine</h5></li>
                     </ul>
                     <p style="text-align:center; margin-top: 6px;"><i class="fa fa-music"></i> Boundary by Dr. Yun</p>
                     <p style="text-align:center; margin-top: -6px;"><i class="fa fa-file-waveform"></i> UST by Arctic Feast</p>
                   </div>
+
+                  <div class="col-lg-3">
+                    <p style="text-align:center;"><i class="fa fa-wave-square"></i> Chinese</p>
+                    <ul>
+                      <li><h5><audio id="6st" src="../../audio/molihua_05_standard.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('6st', this)">
+                        <i class="fa fa-play fa-fw"></i> Standard</h5></li>
+                      <li><h5><audio id="6so" src="../../audio/molihua_05_falsetto.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('6so', this)">
+                        <i class="fa fa-play fa-fw"></i> Falsetto</h5></li>
+                      <li><h5><audio id="6wh" src="../../audio/molihua_05_masculine.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('6wh', this)">
+                        <i class="fa fa-play fa-fw"></i> Masculine</h5></li>
+                    </ul>
+                    <p style="text-align:center; margin-top: 6px;"><i class="fa fa-music"></i> 茉莉花 (Mo Li Hua)</p>
+                  </div>
+
+                  <div class="col-lg-3">
+                    <p style="text-align:center;"><i class="fa fa-wave-square"></i> Thai</p>
+                    <ul>
+                      <li><h5><audio id="7st" src="../../audio/rakrak_05_standard.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('7st', this)">
+                        <i class="fa fa-play fa-fw"></i> Standard</h5></li>
+                      <li><h5><audio id="7so" src="../../audio/rakrak_05_falsetto.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('7so', this)">
+                        <i class="fa fa-play fa-fw"></i> Falsetto</h5></li>
+                      <li><h5><audio id="7wh" src="../../audio/rakrak_05_masculine.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('7wh', this)">
+                        <i class="fa fa-play fa-fw"></i> Masculine</h5></li>
+                    </ul>
+                    <p style="text-align:center; margin-top: 6px;"><i class="fa fa-music"></i> รักแรก (First Love) by NONT TANONT</p>
+                    <p style="text-align:center; margin-top: -6px;"><i class="fa fa-file-waveform"></i> UST by PRINTmov</p>
+                  </div>
+
+                  <div class="col-lg-3">
+                    <p style="text-align:center;"><i class="fa fa-wave-square"></i> Spanish</p>
+                    <ul>
+                      <li><h5><audio id="8st" src="../../audio/olvidarte_05_standard.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('8st', this)">
+                        <i class="fa fa-play fa-fw"></i> Standard</h5></li>
+                      <li><h5><audio id="8so" src="../../audio/olvidarte_05_falsetto.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('8so', this)">
+                        <i class="fa fa-play fa-fw"></i> Falsetto</h5></li>
+                      <li><h5><audio id="8wh" src="../../audio/olvidarte_05_masculine.mp3"></audio>
+                        <button class="text-button" onclick="togglePlayStop('8wh', this)">
+                        <i class="fa fa-play fa-fw"></i> Masculine</h5></li>
+                    </ul>
+                    <p style="text-align:center; margin-top: 6px;"><i class="fa fa-music"></i> Me Cuesta Tanto Olvidarte by Mecano</p>
+                    <p style="text-align:center; margin-top: -6px;"><i class="fa fa-file-waveform"></i> UST by ryusouta</p>
+                  </div>
+                  
                 </div>
                 <br>
               </div>
@@ -235,6 +293,62 @@
           </div>
           <br>
           <!-- ***** Multilang End ***** -->
+
+          <!-- ***** Parameters Start ***** -->
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="main-profile">
+                <h2 style="text-align: center; margin-bottom: -60px;">Available Parameters</h2>
+                <div class="most-popular">
+                  <div class="row">
+                    <div class="col-lg-12">
+                      <div class="row">
+
+                        <div class="col-lg-4 col-sm-6">
+                          <div class="item">
+                            <h5>CLR: voice color</h5><h4><span><i class="fa fa-lightbulb"></i> Allows you to switch between vocal modes of the singer. You can also add parameters for each vocal mode to mix them between each other (see Features)</span></h4>
+                          </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6">
+                          <div class="item">
+                            <h5>TENC: tension (curve)</h5><h4><span><i class="fa fa-lightbulb"></i> Allows you to change the strength of voice by drawing it with a curve. This can greatly emphasize the vocal modes of singer and make the vocals more expressive</span></h4>
+                          </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6">
+                          <div class="item">
+                            <h5>VELC: velocity (curve)</h5><h4><span><i class="fa fa-lightbulb"></i> Makes consonants clearer during fast vocals. If singer stutters, increasing the values of this parameter will improve pronunciation</span></h4>
+                          </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6">
+                          <div class="item">
+                            <h5>PEXP: pitch expressiveness (curve)</h5><h4><span><i class="fa fa-lightbulb"></i> Lowering the values of this parameter will make the pitch generation less expressive</span></h4>
+                          </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6">
+                          <div class="item">
+                            <h5>GEN: gender (curve)</h5><h4><span><i class="fa fa-lightbulb"></i> Allows you to change the vocal formant</span></h4>
+                          </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6">
+                          <div class="item">
+                            <h5>DYN: dynamics (curve)</h5><h4><span><i class="fa fa-lightbulb"></i> Allows you to change the vocal dynamics</span></h4>
+                          </div>
+                        </div>
+      
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <br>
+          <!-- ***** Parameters End ***** -->
 
           <!-- ***** Artworks Start ***** -->
           <div class="row">
@@ -245,9 +359,11 @@
                 </div>
                 <br>
                 <div class="row">
-                  <div class="col-lg-4 align-self-center"><img src="images/3.jpg" style="border-radius: 23px;"><p><i class="fa fa-paint-brush"></i> uriyana_yuku</p></div>
-                  <div class="col-lg-4 align-self-center"><img src="images/2.jpg" style="border-radius: 23px;"><p><i class="fa fa-paint-brush"></i> rev</p></div>
+                  <div class="col-lg-4 align-self-center"><img src="images/3.webp" style="border-radius: 23px;"><p><i class="fa fa-paint-brush"></i> uriyana_yuku</p></div>
+                  <div class="col-lg-4 align-self-center"><img src="images/4.webp" style="border-radius: 23px;"><p><i class="fa fa-paint-brush"></i> Rezo-Sempai</p></div>
+                  <div class="col-lg-4 align-self-center"><img src="images/5.webp" style="border-radius: 23px;"><p><i class="fa fa-paint-brush"></i> uriyana_yuku</p></div>
                   <div class="col-lg-4 align-self-center"><img src="images/1.jpg" style="border-radius: 23px;"><p><i class="fa fa-paint-brush"></i> OtomeHime</p></div>
+                  <div class="col-lg-4 align-self-center"><img src="images/2.jpg" style="border-radius: 23px;"><p><i class="fa fa-paint-brush"></i> rev</p></div>
                 </div>
               </div>
             </div>
