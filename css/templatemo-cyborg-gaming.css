@@ -361,6 +361,66 @@ p {
   color: #1e242f;
 }
 
+.main-button .albus a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #7d281d;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .albus a:hover {
+  background-color: #fff;
+  color: #7d281d;
+}
+
+.main-button .liam a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #43385c;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .liam a:hover {
+  background-color: #fff;
+  color: #43385c;
+}
+
+.main-button .denka a {
+  font-size: 14px;
+  color: #fff;
+  background-color: #c86425;
+  padding: 14px 20px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-button .denka a:hover {
+  background-color: #fff;
+  color: #c86425;
+}
+
 .main-button .new a {
   font-size: 14px;
   color: #fff;
@@ -1219,10 +1279,10 @@ Banner Style
 }
 
 .lunai-s-banner {
-  background-image: url(../images/banner-bg-lunai.jpg);
+  background-image: url(../images/banner-bg-lunai.webp);
   background-position: center center;
   background-size: cover;
-  min-height: 300px;
+  min-height: 250px;
   border-radius: 23px;
   padding: 80px 60px;
   filter: drop-shadow(0 0 2rem #18171b);
