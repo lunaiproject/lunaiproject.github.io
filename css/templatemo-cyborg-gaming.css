@@ -1099,7 +1099,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/banner-bg-main.jpg);
+  background-image: url(../images/banner-bg-main.webp);
   background-position: center center;
   background-size: cover;
   min-height: 380px;
@@ -1127,7 +1127,7 @@ Banner Style
 }
 
 .main-banner-2 {
-  background-image: url(../images/banner-bg-main-2.jpg);
+  background-image: url(../images/banner-bg-main-2.webp);
   background-position: center center;
   background-size: cover;
   min-height: 380px;
