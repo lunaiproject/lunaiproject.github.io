@@ -50,7 +50,7 @@ Artist: shikeii
 Gradient: #e73333ff, #791717ff
 Effect: rain
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Monone_v170.zip
-VM: falsetto/locked/masculine/growl
+VM: falsetto(Soft, airy vocals;Мягкий, воздушный вокал)/locked/masculine(Manly vocals;Мужественный вокал)/growl
 Mainlang: ja
 Info: Powerful virtual singer from another world
 Inforu: Мощный виртуальный вокалист из другого мира
@@ -197,6 +197,7 @@ Info: The virtual singer from Japan
 Inforu: Виртуальный вокалист из Японии
 Infoja: 日本出身のバーチャルシンガー
 Prod: ATSUYA, keirokeer, LOP-P, mii-chandesu, Rampie
+Assist: rev_bmp, MapleStyle, PixPrucer, Tigermeat, Utau French Resources (Millefeuille), Team Coda, Team Brapa
 X: https://x.com/aTSuYaMiCHiKuSa
 YT: https://www.youtube.com/@atsuya_2014
 Web: https://atsuya19960924.wixsite.com/akasubaru
@@ -273,7 +274,7 @@ Artist: Myiko
 Gradient: #d86ee2ff, #852e88ff
 Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Ohne_Kuno_v170.zip
-VM: power/soft
+VM: power(Powerful vocals;Сильный вокал)/soft(Gentle vocals;Нежный вокал)
 Mainlang: de
 Info: The virtual singer from Germany
 Inforu: Виртуальный вокалист из Германии
