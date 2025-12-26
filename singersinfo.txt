@@ -50,7 +50,7 @@ Artist: shikeii
 Gradient: #e73333ff, #791717ff
 Effect: rain
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Monone_v170.zip
-VM: falsetto(Soft, airy vocals;Мягкий, воздушный вокал)/locked/masculine(Manly vocals;Мужественный вокал)/growl
+VM: falsetto(Soft, airy vocals;Мягкий, воздушный вокал)/locked(Offended, tense vocals;Обиженный, напряженный вокал)/masculine(Manly vocals;Мужественный вокал)/growl
 Mainlang: ja
 Info: Powerful virtual singer from another world
 Inforu: Мощный виртуальный вокалист из другого мира
@@ -109,7 +109,7 @@ CV: neirina
 Artist: shikeii
 Gradient: #b8a014ff, #766c0fff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/M1NT0_v170.zip
-VM: power/sweet/tired/growl
+VM: power(Open, intense vocals;Открытый, напряженный вокал)/sweet(Smooth, smiling vocals, recorded in 2018 for the UTAU engine;Мягкий, улыбчивый вокал, записанный в 2018 для движка UTAU)/tired(Sad, soft vocals;Грустный, мягкий вокал)/growl
 Mainlang: ru
 Info: The virtual singer from Russia
 Inforu: Виртуальный вокалист из России
@@ -172,7 +172,7 @@ CV: rev_bmp
 Artist: rev_bmp
 Gradient: #d42e2eff, #741616ff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Karasu_Yuutsukoe_v160.zip
-VM: core/defiant/grim/hollow/plume/rebellion/soaring/growl
+VM: core(A solid voice with a classic tone;Уверенный голос с классическим тембром)/defiant(A strong voice with a harsh tone;Сильный голос с резким тембром)/grim(A dark voice with a somber tone;Мрачный голос с сумрачным тембром)/hollow(A whispering voice with a gentle tone;Приглушённый, шёпотный голос с мягким тембром)/plume(A melodic and nostalgic voice;Мелодичный и ностальгический голос)/rebellion(A nostalgic and emotional voice;Ностальгический и эмоциональный голос)/soaring(A vivid and bright voice;Живой и яркий голос)/growl
 Mainlang: ja
 Info: The virtual singer
 Inforu: Виртуальный вокалист
@@ -191,7 +191,7 @@ CV: ATSUYA
 Artist: 蓮鍵(Husky)
 Gradient: #64748b, #0f172a
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Kuro_Bousuku_v170.zip
-VM: soft/dark/warm/open mouth/rock/powerful/vocal fry/growl
+VM: soft(A gentle voice;Нежный голос)/dark(A sad and melancholic voice;Грустный и меланхоличный голос)/warm(A welcoming and sweet voice;Радушный и сладкий голос)/open mouth(A vivid and bright voice;Живой и яркий голос)/rock(A harsh and aggressive voice;Резкий и агрессивный голос)/powerful(A scratchy and screaming voice;Хриплый, кричащий голос)/vocal fry/growl
 Mainlang: ja
 Info: The virtual singer from Japan
 Inforu: Виртуальный вокалист из Японии
@@ -212,7 +212,7 @@ CV: Chikano1582
 Artist: Chikano1582
 Gradient: #527194ff, #101c2eff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Amaboshi_Cipher_v170.zip
-VM: strong/whisper/growl
+VM: strong(Powerful, intense vocals;Сильный, напряженный вокал)/whisper(Soft, young vocals;Мягкий, молодой вокал)/growl
 Mainlang: ja
 Info: The virtual singer from Japan
 Inforu: Виртуальный вокалист из Японии
@@ -233,7 +233,7 @@ Author: leonid kanevsky
 Artist: leonid kanevsky
 Gradient: #ce5030ff, #79291bff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Denka_Shaa_v170.zip
-VM: soft
+VM: soft(Gentle, whispery vocals, made artificially;Мягкий, шепчущий вокал, сделанный искусственно)
 Mainlang: ja
 Info: The virtual train singer
 Inforu: Виртуальный вокалист, созданный из звуков поезда
@@ -252,7 +252,7 @@ Artist: urchin-p
 Gradient: #d4b423ff, #9c870dff
 Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Aka_Subaru_v170.zip
-VM: soft/powerful
+VM: soft(Gentle vocals;Нежный вокал)/powerful(Scratchy, strong vocals;Хриплый, сильный вокал)
 Mainlang: ja
 Info: The virtual singer from Japan
 Inforu: Виртуальный вокалист из Японии
