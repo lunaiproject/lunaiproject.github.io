@@ -128,7 +128,7 @@ CV: serverpodivan
 Artist: shikeii
 Gradient: #ce3530ff, #791e1bff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Albus_Korde_v170.zip
-VM: flos(Soft, like a spring-morning dewdrop. A light, airy vocal with delicate breath presence, smoothly floating within the surrounding textures and blending seamlessly into the mix)/acerbitas(A forward-placed vocal with a fine, controlled rasp and a hint of edge roughness, colored by a softly irritated tension expressed through a tightened consonant attack and a deliberately restrained dynamic release)/ignis(A ragged, almost compressed high end: A scream driven by internal overload from anger and pain, breaking at its highest peaks into a bright, cutting falsetto)/growl
+VM: flos(Soft, like a spring-morning dewdrop. A light, airy vocal with delicate breath presence, smoothly floating within the surrounding textures and blending seamlessly into the mix;Нежный, как росинка ранним весенним утром. Воздушный вокал, в котором слышится лёгкое дыхание, мягко скользит сквозь звучание и естественно сливается с общей атмосферой трека)/acerbitas(A forward-placed vocal with a fine, controlled rasp and a hint of edge roughness, colored by a softly irritated tension expressed through a tightened consonant attack and a deliberately restrained dynamic release;Forward-placed вокал: тонкая, управляемая хрипотца и лёгкая шероховатость на грани раздраженного напряжения - оно проявляется в жёсткой атаке согласных и намеренно сдержанной динамике)/ignis(A ragged, almost compressed high end: A scream driven by internal overload from anger and pain, breaking at its highest peaks into a bright, cutting falsetto;Рваный, почти задавленный крик, рождённый внутренним перегрузом злости и боли, на предельно высоких нотах взрывающийся в яркий, режущий слух фальцет)/growl
 Mainlang: ru
 Videmo: 3pcPod62C7U,ATyEuMSdKU4
 Info: The virtual singer from Russia
@@ -172,7 +172,7 @@ CV: rev_bmp
 Artist: rev_bmp
 Gradient: #d42e2eff, #741616ff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Karasu_Yuutsukoe_v160.zip
-VM: core(A solid voice with a classic tone;Уверенный голос с классическим тембром)/defiant(A strong voice with a harsh tone;Сильный голос с резким тембром)/grim(A dark voice with a somber tone;Мрачный голос с сумрачным тембром)/hollow(A whispering voice with a gentle tone;Приглушённый, шёпотный голос с мягким тембром)/plume(A melodic and nostalgic voice;Мелодичный и ностальгический голос)/rebellion(A nostalgic and emotional voice;Ностальгический и эмоциональный голос)/soaring(A vivid and bright voice;Живой и яркий голос)/growl
+VM: core(A solid voice with a classic tone;Твёрдый голос с классическим тембром)/defiant(A strong voice with a harsh tone;Сильный голос с резким тембром)/grim(A dark voice with a somber tone;Мрачный голос с сумрачным тембром)/hollow(A whispering voice with a gentle tone;Приглушённый, воздушный голос с мягким тембром)/plume(A melodic and nostalgic voice;Мелодичный и ностальгический голос)/rebellion(A nostalgic and emotional voice;Ностальгический и эмоциональный голос)/soaring(A vivid and bright voice;Живой и яркий голос)/growl
 Mainlang: ja
 Info: The virtual singer
 Inforu: Виртуальный вокалист
