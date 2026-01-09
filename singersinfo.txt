@@ -273,6 +273,7 @@ Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Nessie_v170.zip
 VM: soft(Gentle vocals;Нежный вокал)/cute(Sweet, catroon vocals;Сладкий, мультяшный вокал)
 Mainlang: ru
+Videmo: KJsfiBlMYs4
 Info: The virtual singer based on the Russian VTuber EtoNessie
 Inforu: Виртуальная вокалистка, созданная на основе российской VTuber-ши EtoNessie
 Infoja: ロシアのVTuber EtoNessieを基にしたバーチャルシンガー
