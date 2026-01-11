@@ -3,6 +3,7 @@ Name: Llane Crow
 Nameru: Ллэйн Кроу
 Page: llane_crow
 Demo: ru-standard.mp3
+Songs: badapple,dalyoko
 CV: LOP-P
 Artist: shikeii
 Gradient: #9d4edd, #3c096c
@@ -24,6 +25,7 @@ Name: Keiro Revenant
 Nameru: Кейро Ревенант
 Page: keiro
 Demo: ru-standard.mp3
+Songs: badapple,colorful,dalyoko
 CV: keirokeer
 Artist: shikeii
 Gradient: #64748b, #0f172a
@@ -43,6 +45,7 @@ Name: Monone
 Nameru: Мононэ
 Page: monone
 Demo: ja-standard.mp3
+Songs: colorful,flashback,dalyoko
 CV: raikonenightmare
 Author: Victor Von Drew
 Design: rev_bmp
@@ -65,6 +68,7 @@ Name: Liam Thorne
 Nameru: Лиам Торн
 Page: liam
 Demo: ru-standard.mp3
+Songs: colorful,dalyoko
 CV: Rampie
 Artist: shikeii
 Gradient: #716985ff, #1c1325ff
@@ -83,6 +87,7 @@ Name: Nero
 Nameru: Нэро
 Page: nero
 Demo: ru-standard.mp3
+Songs: colorful,dalyoko
 CV: kai8780
 Artist: ELGD
 Gradient: #ce3045ff, #791b23ff
@@ -105,6 +110,7 @@ Name: M1NT0
 Nameru: Минто
 Page: m1nt0
 Demo: ru-standard.mp3
+Songs: colorful,dalyoko
 CV: neirina
 Artist: shikeii
 Gradient: #b8a014ff, #766c0fff
@@ -124,6 +130,7 @@ Name: Albus Korde
 Nameru: Альбус Кордэ
 Page: albus_korde
 Demo: ru-standard.mp3
+Songs: colorful,dalyoko
 CV: serverpodivan
 Artist: shikeii
 Gradient: #ce3530ff, #791e1bff
@@ -147,6 +154,7 @@ Nameja: 歌幡メイジ
 Nameru: Гахата Мейджи
 Page: gahata_meiji
 Demo: ja-standard.mp3
+Songs: badapple,colorful,flashback,dalyoko
 CV: CuromiSaccu
 Artist: CuromiSaccu
 Gradient: #e26ebfff, #882e6dff
@@ -167,6 +175,7 @@ Nameja: 湯鬱声からす
 Nameru: Карасу Юутсукое
 Page: karasu
 Demo: ja-standard.mp3
+Songs: colorful,dalyoko
 CV: rev_bmp
 Artist: rev_bmp
 Gradient: #d42e2eff, #741616ff
@@ -186,6 +195,7 @@ Nameja: 黒昴宿
 Nameru: Куро Боску
 Page: kurobousuku
 Demo: ja-standard.mp3
+Songs: colorful,flashback,dalyoko
 CV: ATSUYA
 Artist: 蓮鍵(Husky)
 Gradient: #64748b, #0f172a
@@ -207,6 +217,7 @@ Nameja: 赤星河
 Nameru: Ака Субару
 Page: akasubaru
 Demo: ja-standard.mp3
+Songs: colorful,flashback,dalyoko
 CV: ATSUYA
 Artist: urchin-p
 Gradient: #d4b423ff, #9c870dff
@@ -228,6 +239,7 @@ Nameja: 雨星サイファ
 Nameru: Амабоши Сайфер
 Page: amaboshi_cipher
 Demo: ja-standard.mp3
+Songs: colorful,flashback,dalyoko
 CV: Chikano1582
 Artist: Chikano1582
 Gradient: #527194ff, #101c2eff
@@ -248,6 +260,7 @@ Nameja: 電歌シャー
 Nameru: Денка Шаа
 Page: denka_shaa
 Demo: ja-standard.mp3
+Songs: badapple,colorful,dalyoko
 CV: 2ТЭ10У-0337
 Author: leonid kanevsky
 Artist: leonid kanevsky
@@ -266,6 +279,7 @@ Name: Nessie
 Nameru: Несси
 Page: nessie
 Demo: ru-standard.mp3
+Songs: badapple,colorful,flashback,dalyoko
 CV: EtoNessie
 Artist: EtoNessie
 Gradient: #f3997eff, #e76e3eff
@@ -289,6 +303,7 @@ Nameja: 大音クノ
 Nameru: Онэ Куно
 Page: ohne_kuno
 Demo: de-standard.mp3
+Songs: badapple,colorful,dalyoko
 CV: Dän
 Artist: Myiko
 Gradient: #d86ee2ff, #852e88ff
