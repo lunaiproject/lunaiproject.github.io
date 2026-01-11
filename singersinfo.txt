@@ -3,7 +3,7 @@ Name: Llane Crow
 Nameru: Ллэйн Кроу
 Page: llane_crow
 Demo: ru-standard.mp3
-Songs: badapple,dalyoko
+Songs: badapple,colorful,flashback,dalyoko,krestiki,twinkle
 CV: LOP-P
 Artist: shikeii
 Gradient: #9d4edd, #3c096c
