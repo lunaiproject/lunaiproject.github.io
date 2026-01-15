@@ -1,0 +1,321 @@
+!S1
+Name: Llane Crow
+Nameru: Ллэйн Кроу
+Page: llane_crow
+Demo: ru-standard.mp3
+Songs: badapple,meinleben,colorful,flashback,dalyoko,krestiki,twinkle
+CV: LOP-P
+Artist: shikeii
+Gradient: #9d4edd, #3c096c
+Effect: crows
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Llane_Crow_v170.zip
+VM: lady(Feminine, adult vocals;Женственный взрослый вокал)+sty/graceful(Feminine, direct vocals;Женственный прямой вокал)+sty/vivid(Bright and bold vocals;Яркий и дерзкий вокал)+sty/nasal(Nasal and relaxed vocals;Назальный и расслабленный вокал)/manly(Masculine, elegant vocals;Мужественный элегантный вокал)+sty/heavy(Heavy, direct vocals;Тяжёлый прямой вокал)/open(Open and powerful vocals across the entire range;Открытый и сильный на всём диапазоне вокал)/aggressive(Clear vocals designed for rap;Чёткий вокал, предназначенный для рэпа)/silver(Heavy, airy vocals;Тяжёлый воздушный вокал)+sty/kawaii(Childlike vocals;Детский вокал)+sty/sweet(Smiling, gentle vocals;Улыбчивый нежный вокал)/soft(Soft, quiet vocals;Мягкий тихий вокал)/gentle(Standard, but more calm vocals;Стандартный, но более спокойный вокал)/depressive(Tired, airy vocals;Уставший воздушный вокал)+sty/raspy(Hoarse vocals;Хриплый вокал)/growl/vocal fry/whisper(Unvoiced, true breathy vocals; Шепот, вокал с придыханием)+ex/scream
+Mainlang: ru
+Videmo: 9TibWf7yky8,iMg9vU1NvB4,rTh3yqWeFAo,7f0a8u2UB7w
+Info: The first virtual AI singer from Russia
+Inforu: Первый виртуальный ИИ вокалист из России
+Infoja: ロシア初のAIバーチャルシンガー
+Prod: LOP-P, keirokeer, mii-chandesu, Rampie
+X: https://x.com/CrowPyoRaven339
+YT: https://www.youtube.com/@LoverOfPurple
+DS: cherry_crow
+
+!S2
+Name: Keiro Revenant
+Nameru: Кейро Ревенант
+Page: keiro
+Demo: ru-standard.mp3
+Songs: badapple,colorful,dalyoko,twinkle
+CV: keirokeer
+Artist: shikeii
+Gradient: #64748b, #0f172a
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Keiro_Revenant_v170.zip
+VM: native(Normal tone used until 2023. Slightly worse, but has its own peculiarities in tone;Натуральный вокал, записанный до 2023. Чуть хуже качеством, но имеет свои особенности)/cold(Relaxed, languid vocals;Расслабленный, томный вокал)/fragile(Thin, breathless vocals with tears;Тонкий, задыхающийся вокал с надрывами)/mellow(Airy, relaxed vocals;Воздушный, расслабленный вокал)/aggressive(Intense vocals designed for rap;Напряженный вокал, предназначенный для рэпа)/solid(Powerful, chest vocals;Сильный, грудной вокал)/vocal fry/whisper(Unvoiced, true breathy vocals; Шепот, вокал с придыханием)+ex/growl
+Mainlang: ru
+Info: The first male virtual AI singer from Russia
+Inforu: Первый мужской виртуальный ИИ вокалист из России
+Infoja: ロシア初の男性AIバーチャルシンガー
+Prod: keirokeer, mii-chandesu, Rampie
+Web: https://keirokeer.github.io/
+X: https://x.com/keirokeer
+YT: https://www.youtube.com/@keirokeer
+
+!S3
+Name: Monone
+Nameru: Мононэ
+Page: monone
+Demo: ja-standard.mp3
+Songs: colorful,flashback,dalyoko
+CV: raikonenightmare
+Author: Victor Von Drew
+Design: rev_bmp
+Artist: shikeii
+Gradient: #e73333ff, #791717ff
+Effect: rain
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Monone_v170.zip
+VM: falsetto(Soft, airy vocals;Мягкий, воздушный вокал)/locked(Offended, tense vocals;Обиженный, напряженный вокал)/masculine(Manly vocals;Мужественный вокал)/growl
+Mainlang: ja
+Info: Powerful virtual singer from another world
+Inforu: Мощный виртуальный вокалист из другого мира
+Infoja: 異世界出身のパワフルなバーチャルシンガー
+Prod: keirokeer, mii-chandesu, Rampie
+Growl: LOP-P
+Web: https://raiko-net.neocities.org/
+YT: https://www.youtube.com/@RAIKONENIGHTMARE
+
+!S4
+Name: Liam Thorne
+Nameru: Лиам Торн
+Page: liam
+Demo: ru-standard.mp3
+Songs: colorful,dalyoko
+CV: Rampie
+Artist: shikeii
+Gradient: #716985ff, #1c1325ff
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Liam_Thorne_v170.zip
+VM: gentle(Young, whispery vocals;Нежный, тихий вокал)/tired(Closed, dark vocals;Закрытый вокал)/deep(Adult, classic vocals;Взрослый, классический вокал)/powerful(Clear, chest vocals;Сильный, грудной вокал)/aggressive(Bold, flexible vocals designed for rap;Дерзкий, гибкий вокал, предназначенный для рэпа)/rock(Bright, intense vocals;Звонкий, напряженный вокал)/crispy(Husky, sharp vocals;Сиплый, чёткий вокал)/vocal fry/growl
+Mainlang: ru
+Info: The virtual singer from Russia
+Inforu: Виртуальный вокалист из России
+Infoja: ロシア出身のバーチャルシンガー
+Prod: Rampie, keirokeer, mii-chandesu
+X: https://x.com/Rampieeeee
+YT: https://www.youtube.com/@rampiemusic
+
+!S5
+Name: Nero
+Nameru: Нэро
+Page: nero
+Demo: ru-standard.mp3
+Songs: badapple,colorful,dalyoko
+CV: kai8780
+Artist: ELGD
+Gradient: #ce3045ff, #791b23ff
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Nero_v170.zip
+VM: airy(Airy, soft vocals;Воздушный, мягкий вокал)/calm(Soft, sweet vocals;Мягкий, милый вокал)/ballad(Open, dynamic, strong vocals;Открытый, динамичный, сильный вокал)/solid(Solid, powerful, low vocals;Твердый, низкий вокал)/joyful(Smiley, open, sweet vocals;Улыбчивый, открытый, милый вокал)/bright(Strong, dynamic vocals;Сильный, динамичный вокал)/growl
+Mainlang: ru
+Videmo: G0NsLuAqclU,G6ZBSMJzjW8,1x3zOjO-gAs
+Info: The virtual singer from Russia with love
+Inforu: Виртуальный вокалист из России с любовью
+Infoja: ロシアより愛を込めて贈るバーチャルシンガー
+Prod: kai8780, keirokeer, mii-chandesu, Rampie
+Growl: keirokeer
+InfoCV: synthesis user, music producer pspspspspspspsppspsps
+X: https://x.com/unknownfoxxx
+YT: https://www.youtube.com/@kai878O
+SC: https://soundcloud.com/unknown-fox-284492137
+
+!S6
+Name: M1NT0
+Nameru: Минто
+Page: m1nt0
+Demo: ru-standard.mp3
+Songs: badapple,colorful,dalyoko
+CV: neirina
+Artist: shikeii
+Gradient: #b8a014ff, #766c0fff
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/M1NT0_v170.zip
+VM: power(Open, intense vocals;Открытый, напряженный вокал)/sweet(Smooth, smiling vocals, recorded in 2018 for the UTAU engine;Мягкий, улыбчивый вокал, записанный в 2018 для движка UTAU)/tired(Sad, soft vocals;Грустный, мягкий вокал)/growl
+Mainlang: ru
+Info: The virtual singer from Russia
+Inforu: Виртуальный вокалист из России
+Infoja: ロシア出身のバーチャルシンガー
+Prod: keirokeer, Rampie, mii-chandesu, LOP-P
+Growl: LOP-P
+X: https://x.com/_neirina
+YT: https://www.youtube.com/@neirina
+
+!S7
+Name: Albus Korde
+Nameru: Альбус Кордэ
+Page: albus_korde
+Demo: ru-standard.mp3
+Songs: colorful,dalyoko
+CV: serverpodivan
+Artist: shikeii
+Gradient: #ce3530ff, #791e1bff
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Albus_Korde_v170.zip
+VM: flos(Soft, like a spring-morning dewdrop. A light, airy vocal with delicate breath presence, smoothly floating within the surrounding textures and blending seamlessly into the mix;Нежный, как росинка ранним весенним утром. Воздушный вокал, в котором слышится лёгкое дыхание, мягко скользит сквозь звучание и естественно сливается с общей атмосферой трека)/acerbitas(A forward-placed vocal with a fine, controlled rasp and a hint of edge roughness, colored by a softly irritated tension expressed through a tightened consonant attack and a deliberately restrained dynamic release;Forward-placed вокал: тонкая, управляемая хрипотца и лёгкая шероховатость на грани раздраженного напряжения - оно проявляется в жёсткой атаке согласных и намеренно сдержанной динамике)/ignis(A ragged, almost compressed high end: A scream driven by internal overload from anger and pain, breaking at its highest peaks into a bright, cutting falsetto;Рваный, почти задавленный крик, рождённый внутренним перегрузом злости и боли, на предельно высоких нотах взрывающийся в яркий, режущий слух фальцет)/growl
+Mainlang: ru
+Videmo: 3pcPod62C7U,ATyEuMSdKU4
+Info: The virtual singer from Russia
+Inforu: Виртуальный вокалист из России
+Infoja: ロシア出身のバーチャルシンガー
+Prod: keirokeer, LOP-P, mii-chandesu, Rampie, serverpodivan
+Growl: LOP-P
+InfoCV: He roams the world, he chasing parmesan… An artist, a translator, a voice provider.
+InfoCVru: Он путешествует, он ищет пармезан... Художник, переводчик, войс-провайдер.
+YT: https://www.youtube.com/@ServerPodivan
+TG: https://t.me/TouToisan
+
+!S8
+Name: Gahata Meiji
+Nameja: 歌幡メイジ
+Nameru: Гахата Мейджи
+Page: gahata_meiji
+Demo: ja-standard.mp3
+Songs: badapple,colorful,flashback,dalyoko
+CV: CuromiSaccu
+Artist: CuromiSaccu
+Gradient: #e26ebfff, #882e6dff
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Gahata_Meiji_v170.zip
+VM: hunter/lilith/phantom
+Mainlang: ja
+Info: The virtual singer from Japan
+Inforu: Виртуальный вокалист из Японии
+Infoja: 日本出身のバーチャルシンガー
+Prod: keirokeer, LOP-P, Rampie, mii-chandesu
+Pitch: LOP-P
+X: https://x.com/curomismiumiu
+YT: https://www.youtube.com/@curomismiumiu
+
+!S9
+Name: Karasu Yuutsukoe
+Nameja: 湯鬱声からす
+Nameru: Карасу Юутсукое
+Page: karasu
+Demo: ja-standard.mp3
+Songs: badapple,colorful,dalyoko,twinkle
+CV: rev_bmp
+Artist: rev_bmp
+Gradient: #d42e2eff, #741616ff
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Karasu_Yuutsukoe_v160.zip
+VM: core(A solid voice with a classic tone;Твёрдый голос с классическим тембром)/defiant(A strong voice with a harsh tone;Сильный голос с резким тембром)/grim(A dark voice with a somber tone;Мрачный голос с сумрачным тембром)/hollow(A whispering voice with a gentle tone;Приглушённый, воздушный голос с мягким тембром)/plume(A melodic and nostalgic voice;Мелодичный и ностальгический голос)/rebellion(A nostalgic and emotional voice;Ностальгический и эмоциональный голос)/soaring(A vivid and bright voice;Живой и яркий голос)/growl
+Mainlang: ja
+Info: The virtual singer
+Inforu: Виртуальный вокалист
+Infoja: バーチャルシンガー
+Prod: rev_bmp, PixPrucer, keirokeer, mii-chandesu, Rampie
+X: https://x.com/rev_bmp
+YT: https://www.youtube.com/@rev_bmp
+
+!S10
+Name: Kuro Bousuku
+Nameja: 黒昴宿
+Nameru: Куро Боску
+Page: kurobousuku
+Demo: ja-standard.mp3
+Songs: colorful,flashback,dalyoko
+CV: ATSUYA
+Artist: 蓮鍵(Husky)
+Gradient: #64748b, #0f172a
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Kuro_Bousuku_v170.zip
+VM: soft(A gentle voice;Нежный голос)/dark(A sad and melancholic voice;Грустный и меланхоличный голос)/warm(A welcoming and sweet voice;Радушный и сладкий голос)/open mouth(A vivid and bright voice;Живой и яркий голос)/rock(A harsh and aggressive voice;Резкий и агрессивный голос)/powerful(A scratchy and screaming voice;Хриплый, кричащий голос)/vocal fry/growl
+Mainlang: ja
+Info: The virtual singer from Japan
+Inforu: Виртуальный вокалист из Японии
+Infoja: 日本出身のバーチャルシンガー
+Prod: ATSUYA, keirokeer, LOP-P, mii-chandesu, Rampie
+Assist: rev_bmp, MapleStyle, PixPrucer, Tigermeat, Utau French Resources (Millefeuille), Team Coda, Team Brapa
+X: https://x.com/aTSuYaMiCHiKuSa
+YT: https://www.youtube.com/@atsuya_2014
+Web: https://atsuya19960924.wixsite.com/akasubaru
+
+!S11
+Name: Aka Subaru
+Nameja: 赤星河
+Nameru: Ака Субару
+Page: akasubaru
+Demo: ja-standard.mp3
+Songs: colorful,flashback,dalyoko
+CV: ATSUYA
+Artist: urchin-p
+Gradient: #d4b423ff, #9c870dff
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Aka_Subaru_v170.zip
+VM: soft(Gentle vocals;Нежный вокал)/powerful(Scratchy, strong vocals;Хриплый, сильный вокал)
+Mainlang: ja
+Info: The virtual singer from Japan
+Inforu: Виртуальный вокалист из Японии
+Infoja: 日本出身のバーチャルシンガー
+Prod: ATSUYA, keirokeer, mii-chandesu, Rampie
+Assist: rev_bmp, MapleStyle, PixPrucer, Tigermeat, Utau French Resources (Millefeuille), Team Coda, Team Brapa
+X: https://x.com/aTSuYaMiCHiKuSa
+YT: https://www.youtube.com/@atsuya_2014
+Web: https://atsuya19960924.wixsite.com/akasubaru
+
+!S12
+Name: Amaboshi Cipher
+Nameja: 雨星サイファ
+Nameru: Амабоши Сайфер
+Page: amaboshi_cipher
+Demo: ja-standard.mp3
+Songs: badapple,colorful,flashback,dalyoko
+CV: Chikano1582
+Artist: Chikano1582
+Gradient: #527194ff, #101c2eff
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Amaboshi_Cipher_v170.zip
+VM: strong(Powerful, intense vocals;Сильный, напряженный вокал)/whisper(Soft, young vocals;Мягкий, молодой вокал)/growl
+Mainlang: ja
+Info: The virtual singer from Japan
+Inforu: Виртуальный вокалист из Японии
+Infoja: 日本出身のバーチャルシンガー
+Prod: Chikano1582, keirokeer, mii-chandesu, Rampie
+Growl: LOP-P
+Web: https://parapluie2c56m.wixsite.com/mysite
+X: https://x.com/chikano1582
+
+!S13
+Name: Denka Shaa
+Nameja: 電歌シャー
+Nameru: Денка Шаа
+Page: denka_shaa
+Demo: ja-standard.mp3
+Songs: badapple,colorful,dalyoko
+CV: 2ТЭ10У-0337
+Author: leonid kanevsky
+Artist: leonid kanevsky
+Gradient: #ce5030ff, #79291bff
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Denka_Shaa_v170.zip
+VM: soft(Gentle, whispery vocals, made artificially;Мягкий, шепчущий вокал, сделанный искусственно)
+Mainlang: ja
+Info: The virtual train singer
+Inforu: Виртуальный вокалист, созданный из звуков поезда
+Infoja: 電車の音から生まれたバーチャルシンガー
+Prod: leonid kanevsky, keirokeer, mii-chandesu, Rampie
+YT: https://www.youtube.com/@leonidkanevsky202
+
+!S14
+Name: Nessie
+Nameru: Несси
+Page: nessie
+Demo: ru-standard.mp3
+Songs: badapple,colorful,flashback,dalyoko
+CV: EtoNessie
+Artist: EtoNessie
+Gradient: #f3997eff, #e76e3eff
+Tag: new
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Nessie_v170.zip
+VM: soft(Gentle vocals;Нежный вокал)/cute(Sweet, catroon vocals;Сладкий, мультяшный вокал)
+Mainlang: ru
+Videmo: KJsfiBlMYs4
+Info: The virtual singer based on the Russian VTuber EtoNessie
+Inforu: Виртуальная вокалистка, созданная на основе российской VTuber-ши EtoNessie
+Infoja: ロシアのVTuber EtoNessieを基にしたバーチャルシンガー
+Prod: keirokeer, mii-chandesu, Rampie
+Pitch: LOP-P
+TW: https://www.twitch.tv/etonessie
+VK: https://vk.com/etonessie
+YT: https://www.youtube.com/@etonessie
+TG: https://t.me/etonessie
+
+!S15
+Name: Ohne Kuno
+Nameja: 大音クノ
+Nameru: Онэ Куно
+Page: ohne_kuno
+Demo: de-standard.mp3
+Songs: badapple,colorful,dalyoko,twinkle
+CV: Dän
+Artist: Myiko
+Gradient: #d86ee2ff, #852e88ff
+Tag: new
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Ohne_Kuno_v170.zip
+VM: power(Powerful vocals;Сильный вокал)/soft(Gentle vocals;Нежный вокал)
+Mainlang: de
+Info: The virtual singer from Germany
+Inforu: Виртуальный вокалист из Германии
+Infoja: ドイツ出身のバーチャルシンガー
+Prod: keirokeer, mii-chandesu, Rampie, S'pose, Utau French Resources
+X: https://x.com/itsBellDan
+YT: https://www.youtube.com/@BellDan
+BB: https://space.bilibili.com/386213079

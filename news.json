@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": "webupdate",
+      "date": "2025-12-25",
+      "title": "Website Update",
+      "content": "The LUNAI Project website has been completely redesigned with new features.\n\nWe've focused on creating a better user experience for all our visitors.",
+      "image": "logo.webp"
+    },
+    {
+      "id": "release170",
+      "date": "2025-12-25",
+      "title": "Update v170 is out!",
+      "content": "The new update brings a lot of new features: improved quality, support for new languages, optimization, and a whole bunch more, which we'll be writing a separate post about later.",
+      "image": "logo.webp"
+    },
+    {
+      "id": "kunorelease",
+      "date": "2025-12-25",
+      "title": "Ohne Kuno was released!",
+      "content": "Meet Ohne Kuno!",
+      "image": "logo.webp"
+    }
+  ]
+}
