@@ -32,6 +32,7 @@ Gradient: #64748b, #0f172a
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Keiro_Revenant_v170.zip
 VM: native(Normal tone used until 2023. Slightly worse, but has its own peculiarities in tone;Натуральный вокал, записанный до 2023. Чуть хуже качеством, но имеет свои особенности)/cold(Relaxed, languid vocals;Расслабленный, томный вокал)/fragile(Thin, breathless vocals with tears;Тонкий, задыхающийся вокал с надрывами)/mellow(Airy, relaxed vocals;Воздушный, расслабленный вокал)/aggressive(Intense vocals designed for rap;Напряженный вокал, предназначенный для рэпа)/solid(Powerful, chest vocals;Сильный, грудной вокал)/vocal fry/whisper(Unvoiced, true breathy vocals; Шепот, вокал с придыханием)+ex/growl
 Mainlang: ru
+Videmo: Q-UmeWyAKKs,_8hQcYl3aXw
 Info: The first male virtual AI singer from Russia
 Inforu: Первый мужской виртуальный ИИ вокалист из России
 Infoja: ロシア初の男性AIバーチャルシンガー
@@ -75,6 +76,7 @@ Gradient: #716985ff, #1c1325ff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Liam_Thorne_v170.zip
 VM: gentle(Young, whispery vocals;Нежный, тихий вокал)/tired(Closed, dark vocals;Закрытый вокал)/deep(Adult, classic vocals;Взрослый, классический вокал)/powerful(Clear, chest vocals;Сильный, грудной вокал)/aggressive(Bold, flexible vocals designed for rap;Дерзкий, гибкий вокал, предназначенный для рэпа)/rock(Bright, intense vocals;Звонкий, напряженный вокал)/crispy(Husky, sharp vocals;Сиплый, чёткий вокал)/vocal fry/growl
 Mainlang: ru
+Videmo: HTKCVtN2oqM
 Info: The virtual singer from Russia
 Inforu: Виртуальный вокалист из России
 Infoja: ロシア出身のバーチャルシンガー
@@ -94,7 +96,7 @@ Gradient: #ce3045ff, #791b23ff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Nero_v170.zip
 VM: airy(Airy, soft vocals;Воздушный, мягкий вокал)/calm(Soft, sweet vocals;Мягкий, милый вокал)/ballad(Open, dynamic, strong vocals;Открытый, динамичный, сильный вокал)/solid(Solid, powerful, low vocals;Твердый, низкий вокал)/joyful(Smiley, open, sweet vocals;Улыбчивый, открытый, милый вокал)/bright(Strong, dynamic vocals;Сильный, динамичный вокал)/growl
 Mainlang: ru
-Videmo: G0NsLuAqclU,G6ZBSMJzjW8,1x3zOjO-gAs
+Videmo: G0NsLuAqclU,G6ZBSMJzjW8,1x3zOjO-gAs,5gxqiU3FIdU
 Info: The virtual singer from Russia with love
 Inforu: Виртуальный вокалист из России с любовью
 Infoja: ロシアより愛を込めて贈るバーチャルシンガー
@@ -117,6 +119,7 @@ Gradient: #b8a014ff, #766c0fff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/M1NT0_v170.zip
 VM: power(Open, intense vocals;Открытый, напряженный вокал)/sweet(Smooth, smiling vocals, recorded in 2018 for the UTAU engine;Мягкий, улыбчивый вокал, записанный в 2018 для движка UTAU)/tired(Sad, soft vocals;Грустный, мягкий вокал)/growl
 Mainlang: ru
+Videmo: DztFaWhRiGQ
 Info: The virtual singer from Russia
 Inforu: Виртуальный вокалист из России
 Infoja: ロシア出身のバーチャルシンガー
@@ -137,7 +140,7 @@ Gradient: #ce3530ff, #791e1bff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Albus_Korde_v170.zip
 VM: flos(Soft, like a spring-morning dewdrop. A light, airy vocal with delicate breath presence, smoothly floating within the surrounding textures and blending seamlessly into the mix;Нежный, как росинка ранним весенним утром. Воздушный вокал, в котором слышится лёгкое дыхание, мягко скользит сквозь звучание и естественно сливается с общей атмосферой трека)/acerbitas(A forward-placed vocal with a fine, controlled rasp and a hint of edge roughness, colored by a softly irritated tension expressed through a tightened consonant attack and a deliberately restrained dynamic release;Forward-placed вокал: тонкая, управляемая хрипотца и лёгкая шероховатость на грани раздраженного напряжения - оно проявляется в жёсткой атаке согласных и намеренно сдержанной динамике)/ignis(A ragged, almost compressed high end: A scream driven by internal overload from anger and pain, breaking at its highest peaks into a bright, cutting falsetto;Рваный, почти задавленный крик, рождённый внутренним перегрузом злости и боли, на предельно высоких нотах взрывающийся в яркий, режущий слух фальцет)/growl
 Mainlang: ru
-Videmo: 3pcPod62C7U,ATyEuMSdKU4
+Videmo: 3pcPod62C7U,ATyEuMSdKU4,WA6x2FxRcqo,ApWzWTgvYjM
 Info: The virtual singer from Russia
 Inforu: Виртуальный вокалист из России
 Infoja: ロシア出身のバーチャルシンガー
@@ -161,6 +164,7 @@ Gradient: #e26ebfff, #882e6dff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Gahata_Meiji_v170.zip
 VM: hunter/lilith/phantom
 Mainlang: ja
+Videmo: m0R71_1LuDo
 Info: The virtual singer from Japan
 Inforu: Виртуальный вокалист из Японии
 Infoja: 日本出身のバーチャルシンガー
@@ -182,6 +186,7 @@ Gradient: #d42e2eff, #741616ff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Karasu_Yuutsukoe_v160.zip
 VM: core(A solid voice with a classic tone;Твёрдый голос с классическим тембром)/defiant(A strong voice with a harsh tone;Сильный голос с резким тембром)/grim(A dark voice with a somber tone;Мрачный голос с сумрачным тембром)/hollow(A whispering voice with a gentle tone;Приглушённый, воздушный голос с мягким тембром)/plume(A melodic and nostalgic voice;Мелодичный и ностальгический голос)/rebellion(A nostalgic and emotional voice;Ностальгический и эмоциональный голос)/soaring(A vivid and bright voice;Живой и яркий голос)/growl
 Mainlang: ja
+Videmo: Fu7UVjuXvn0,kr5NXNc44xk,BLm0ehhBR7o,jxLzl1QsMpE
 Info: The virtual singer
 Inforu: Виртуальный вокалист
 Infoja: バーチャルシンガー
@@ -268,6 +273,7 @@ Gradient: #ce5030ff, #79291bff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Denka_Shaa_v170.zip
 VM: soft(Gentle, whispery vocals, made artificially;Мягкий, шепчущий вокал, сделанный искусственно)
 Mainlang: ja
+Videmo: AlUWs3-wx4Q
 Info: The virtual train singer
 Inforu: Виртуальный вокалист, созданный из звуков поезда
 Infoja: 電車の音から生まれたバーチャルシンガー
@@ -312,6 +318,7 @@ Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Ohne_Kuno_v170.zip
 VM: power(Powerful vocals;Сильный вокал)/soft(Gentle vocals;Нежный вокал)
 Mainlang: de
+Videmo: UstElZ_v3vU,uh6uqO6kz8o,JNbevf5RHcc,2KSGeVu27G8
 Info: The virtual singer from Germany
 Inforu: Виртуальный вокалист из Германии
 Infoja: ドイツ出身のバーチャルシンガー
@@ -319,3 +326,26 @@ Prod: keirokeer, mii-chandesu, Rampie, S'pose, Utau French Resources
 X: https://x.com/itsBellDan
 YT: https://www.youtube.com/@BellDan
 BB: https://space.bilibili.com/386213079
+
+!S16
+Name: Natsume Juli
+Nameja: 夏目悠李
+Nameru: Нацумэ Джули
+Page: natsume_juli
+Demo: ja-standard.mp3
+Songs: badapple,colorful,flashback,dalyoko,twinkle
+CV: Kirino Sohta
+Artist: UNF
+Gradient: #7ac9eaff, #1e7cb8ff
+Tag: new
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Natsume_Juli_v170.zip
+VM: dark(Gentle, relaxed vocals;Нежный, расслабленный вокал)
+Mainlang: ja
+Info: The virtual singer from Japan
+Inforu: Виртуальный вокалист из Японии
+Infoja: 日本出身のバーチャルシンガー
+Prod: ATSUYA, keirokeer, mii-chandesu, Rampie
+Assist: Amano Kei, Tarou Shirani, MapleStyle, PixPrucer, Tigermeat, Utau French Resources (Millefeuille), Team Coda, Team Brapa
+Web: https://taittsuu.com/users/k_sdcm/profiles
+X: https://x.com/k_sdcm
+YT: https://www.youtube.com/@%E9%9C%A7%E9%87%8E%E8%92%BC%E5%A4%AA
