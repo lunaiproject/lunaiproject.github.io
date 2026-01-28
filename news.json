@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "id": "1465799804805321018",
+      "date": "2026-01-27",
+      "title": "📌  Let's talk about Monone's new design",
+      "content": "📌  Let's talk about Monone's new design\n\nThis is a complete reinvention of the character, designed by rev_bmp. The main illustration by shikeii\n\nShe has her own lore from the Lunai universe, which tells how she can control levitation and many other interesting things that you will learn about later. Stay with us! 👀",
+      "image": "portrait.webp"
+    },
+    {
+      "id": "1465480882352816259",
+      "date": "2026-01-26",
+      "title": "<a:Vi_notify:977103248202809435>  **OpenUtau Lunai 0.1.3.0 update has been released!**",
+      "content": "<a:Vi_notify:977103248202809435>  **OpenUtau Lunai 0.1.3.0 update has been released!**\n\n*This is a test build. You may encounter bugs and crashes when using it*\n\nThe build has been updated to the latest test features in original StAkira's OpenUTAU, and some unreleased pull requests have been added. The most interesting:\n\n- **Piano roll** is now **attachable** to main window\n- **Custom themes** *(not sure if they will work properly)*\n- **Track expressions**\n- DiffSinger **Refined Phonemizer**\n- DiffSinger **Portuguese BRAPA Phonemizer**\n- **Liaison support** to **French Millefeuille Phonemizer**\n- Many **bugs** have been **fixed** (but others appeared)\n\nYou can simply open your OpenUtau Lunai to receive the update notification, or install it here:\nhttps://github.com/keirokeer/OpenUtau-DiffSinger-Lunai/releases/tag/0.1.3.0",
+      "image": "image.png"
+    },
+    {
       "id": "webupdate",
       "date": "2025-12-25",
       "title": "Website Update",
