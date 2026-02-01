@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "id": "1467566116363833398",
+      "date": "2026-02-01",
+      "title": "⚡  OpenUtau Lunai 0.1.3.1 update has been released!",
+      "content": "⚡  <strong>OpenUtau Lunai 0.1.3.1 update has been released!</strong>\n\n<em>This is a test build. You may encounter bugs and crashes when using it</em>\n\nThis update includes a complete redesign of the <strong>phoneme panel</strong> for easy work with DiffSinger voicebanks!\n\nYou can also hide phoneme language tags in Preferences -> DiffSinger\n\nYou can simply open your OpenUtau Lunai to receive the update notification, or install it here:\n<a href=\"https://github.com/keirokeer/OpenUtau-DiffSinger-Lunai/releases/tag/0.1.3.1\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/keirokeer/OpenUtau-DiffSinger-Lunai/releases/tag/0.1.3.1</a>",
+      "image": "discord-1467566116363833398.png"
+    },
+    {
       "id": "1465799804805321018",
       "date": "2026-01-27",
       "title": "📌  Let's talk about Monone's new design",
