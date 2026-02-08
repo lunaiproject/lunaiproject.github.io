@@ -26,7 +26,7 @@ Name: Keiro Revenant
 Nameru: Кейро Ревенант
 Page: keiro
 Demo: ru-standard.mp3
-Songs: badapple,colorful,dalyoko,twinkle
+Songs: badapple,colorful,dalyoko,twinkle,boundary
 CV: keirokeer
 Artist: shikeii
 Gradient: #64748b, #0f172a
@@ -48,7 +48,7 @@ Name: Monone
 Nameru: Мононэ
 Page: monone
 Demo: ja-standard.mp3
-Songs: colorful,flashback,dalyoko
+Songs: colorful,flashback,dalyoko,boundary,stranded
 CV: raikonenightmare
 Author: Victor Von Drew
 Design: rev_bmp
@@ -72,7 +72,7 @@ Name: Liam Thorne
 Nameru: Лиам Торн
 Page: liam
 Demo: ru-standard.mp3
-Songs: colorful,dalyoko
+Songs: colorful,dalyoko,flashback,badapple,twinkle,boundary,stranded
 CV: Rampie
 Artist: shikeii
 Gradient: #716985ff, #1c1325ff
@@ -93,7 +93,7 @@ Name: Nero
 Nameru: Нэро
 Page: nero
 Demo: ru-standard.mp3
-Songs: badapple,colorful,dalyoko
+Songs: badapple,colorful,dalyoko,boundary
 CV: kai8780
 Artist: ELGD
 Gradient: #ce3045ff, #791b23ff
@@ -343,7 +343,7 @@ Nameja: 夏目悠李
 Nameru: Нацумэ Джули
 Page: natsume_juli
 Demo: ja-standard.mp3
-Songs: badapple,colorful,flashback,dalyoko,twinkle
+Songs: badapple,colorful,flashback,dalyoko,twinkle,boundary
 CV: Kirino Sohta
 Artist: UNF
 Gradient: #7ac9eaff, #1e7cb8ff

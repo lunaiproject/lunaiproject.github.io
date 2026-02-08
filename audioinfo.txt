@@ -5,3 +5,5 @@ ru;krestiki;Embroidering Love;LOP-P;LOP-P
 de;badapple;Bad Apple!!;Alstroemeria Records & Nomico;Renoden;StrawbellyCake
 de;meinleben;Mein Leben;Letzte Instanz;LOP-P
 en;twinkle;Twinkle, Twinkle, Little Star;Jane Taylor;keirokeer
+ko;boundary;Boundary;Dr. Yun;Arctic Feast
+ko;stranded;필요조건◎Stranded;WyvernP;WyvernP
