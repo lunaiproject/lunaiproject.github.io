@@ -26,7 +26,7 @@ Name: Keiro Revenant
 Nameru: Кейро Ревенант
 Page: keiro
 Demo: ru-standard.mp3
-Songs: badapple,colorful,dalyoko,twinkle,boundary
+Songs: badapple,colorful,dalyoko,twinkle,boundary,stranded
 CV: keirokeer
 Artist: shikeii
 Gradient: #64748b, #0f172a
@@ -117,7 +117,7 @@ Name: M1NT0
 Nameru: Минто
 Page: m1nt0
 Demo: ru-standard.mp3
-Songs: badapple,colorful,dalyoko
+Songs: badapple,colorful,dalyoko,stranded
 CV: neirina
 Artist: shikeii
 Gradient: #b8a014ff, #766c0fff
@@ -138,7 +138,7 @@ Name: Albus Korde
 Nameru: Альбус Кордэ
 Page: albus_korde
 Demo: ru-standard.mp3
-Songs: colorful,dalyoko
+Songs: colorful,dalyoko,twinkle
 CV: serverpodivan
 Artist: shikeii
 Gradient: #ce3530ff, #791e1bff
@@ -162,7 +162,7 @@ Nameja: 歌幡メイジ
 Nameru: Гахата Мейджи
 Page: gahata_meiji
 Demo: ja-standard.mp3
-Songs: badapple,colorful,flashback,dalyoko
+Songs: badapple,colorful,flashback,dalyoko,twinkle,stranded
 CV: CuromiSaccu
 Artist: CuromiSaccu
 Gradient: #e26ebfff, #882e6dff
@@ -230,7 +230,7 @@ Nameja: 赤星河
 Nameru: Ака Субару
 Page: akasubaru
 Demo: ja-standard.mp3
-Songs: colorful,flashback,dalyoko
+Songs: colorful,flashback,dalyoko,twinkle
 CV: ATSUYA
 Artist: urchin-p
 Gradient: #d4b423ff, #9c870dff
@@ -253,13 +253,14 @@ Nameja: 雨星サイファ
 Nameru: Амабоши Сайфер
 Page: amaboshi_cipher
 Demo: ja-standard.mp3
-Songs: badapple,colorful,flashback,dalyoko
+Songs: badapple,colorful,flashback,dalyoko,twinkle
 CV: Chikano1582
 Artist: Chikano1582
 Gradient: #527194ff, #101c2eff
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Amaboshi_Cipher_v170.zip
 VM: strong(Powerful, intense vocals;Сильный, напряженный вокал)/whisper(Soft, young vocals;Мягкий, молодой вокал)/growl
 Mainlang: ja
+Videmo: txCJSu_uUhs
 Info: The virtual singer from Japan
 Inforu: Виртуальный вокалист из Японии
 Infoja: 日本出身のバーチャルシンガー
@@ -274,7 +275,7 @@ Nameja: 電歌シャー
 Nameru: Денка Шаа
 Page: denka_shaa
 Demo: ja-standard.mp3
-Songs: badapple,colorful,dalyoko
+Songs: badapple,colorful,dalyoko,twinkle
 CV: 2ТЭ10У-0337
 Author: leonid kanevsky
 Artist: leonid kanevsky
@@ -323,7 +324,6 @@ Songs: badapple,colorful,dalyoko,twinkle
 CV: Dän
 Artist: Myiko
 Gradient: #d86ee2ff, #852e88ff
-Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Ohne_Kuno_v170.zip
 VM: power(Powerful vocals;Сильный вокал)/soft(Gentle vocals;Нежный вокал)
 Mainlang: de
@@ -343,7 +343,7 @@ Nameja: 夏目悠李
 Nameru: Нацумэ Джули
 Page: natsume_juli
 Demo: ja-standard.mp3
-Songs: badapple,colorful,flashback,dalyoko,twinkle,boundary
+Songs: badapple,colorful,flashback,dalyoko,twinkle,boundary,stranded
 CV: Kirino Sohta
 Artist: UNF
 Gradient: #7ac9eaff, #1e7cb8ff
