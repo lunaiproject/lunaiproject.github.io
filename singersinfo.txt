@@ -127,6 +127,7 @@ Songs: badapple,colorful,dalyoko,stranded
 CV: neirina
 Artist: shikeii
 Gradient: #b8a014ff, #766c0fff
+Effect: chains
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/M1NT0_v170.zip
 VM: power(Open, intense vocals;Открытый, напряженный вокал)/sweet(Smooth, smiling vocals, recorded in 2018 for the UTAU engine;Мягкий, улыбчивый вокал, записанный в 2018 для движка UTAU)/tired(Sad, soft vocals;Грустный, мягкий вокал)/growl
 Mainlang: ru
