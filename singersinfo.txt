@@ -28,6 +28,7 @@ Nameru: Кейро Ревенант
 Page: keiro
 Original: 1
 Demo: ru-standard.mp3
+Effect: bats
 Songs: badapple,colorful,dalyoko,twinkle,boundary,stranded
 CV: keirokeer
 Artist: shikeii
