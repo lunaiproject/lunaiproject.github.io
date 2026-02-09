@@ -2,6 +2,7 @@
 Name: Llane Crow
 Nameru: Ллэйн Кроу
 Page: llane_crow
+Original: 1
 Demo: ru-standard.mp3
 Songs: badapple,meinleben,colorful,flashback,dalyoko,krestiki,twinkle
 CV: LOP-P
@@ -25,6 +26,7 @@ DS: cherry_crow
 Name: Keiro Revenant
 Nameru: Кейро Ревенант
 Page: keiro
+Original: 1
 Demo: ru-standard.mp3
 Songs: badapple,colorful,dalyoko,twinkle,boundary,stranded
 CV: keirokeer
@@ -47,6 +49,7 @@ YT: https://www.youtube.com/@keirokeer
 Name: Monone
 Nameru: Мононэ
 Page: monone
+Original: 1
 Demo: ja-standard.mp3
 Songs: colorful,flashback,dalyoko,boundary,stranded
 CV: raikonenightmare
@@ -71,6 +74,7 @@ YT: https://www.youtube.com/@RAIKONENIGHTMARE
 Name: Liam Thorne
 Nameru: Лиам Торн
 Page: liam
+Original: 1
 Demo: ru-standard.mp3
 Songs: colorful,dalyoko,flashback,badapple,twinkle,boundary,stranded
 CV: Rampie
@@ -92,6 +96,7 @@ YT: https://www.youtube.com/@rampiemusic
 Name: Nero
 Nameru: Нэро
 Page: nero
+Original: 1
 Demo: ru-standard.mp3
 Songs: badapple,colorful,dalyoko,boundary
 CV: kai8780
@@ -116,6 +121,7 @@ SC: https://soundcloud.com/unknown-fox-284492137
 Name: M1NT0
 Nameru: Минто
 Page: m1nt0
+Original: 1
 Demo: ru-standard.mp3
 Songs: badapple,colorful,dalyoko,stranded
 CV: neirina
@@ -137,6 +143,7 @@ YT: https://www.youtube.com/@neirina
 Name: Albus Korde
 Nameru: Альбус Кордэ
 Page: albus_korde
+Original: 1
 Demo: ru-standard.mp3
 Songs: colorful,dalyoko,twinkle
 CV: serverpodivan

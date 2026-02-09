@@ -1,0 +1,47 @@
+!C1
+Name: UFR
+Link: https://utaufrance.com/voicebank/
+Folder: utaufrenchresources
+Gradient: #4845ff, #1c18ff
+Description: French Vocal Synth team
+DescriptionRu: Французская команда, занимающаяся DiffSinger
+
+!C2
+Name: Team CODA
+Link: https://coda-svs.org/characters/
+Folder: teamcoda
+Gradient: #f57524, #ec6814
+Description: Korean Vocal Synth team
+DescriptionRu: Корейская команда, занимающаяся DiffSinger
+
+!C3
+Name: Team BRAPA
+Link: https://www.teambrapa.com.br/
+Folder: teambrapa
+Gradient: #a1c94b, #90c13d
+Description: Brazilian Vocal Synth team
+DescriptionRu: Бразильская команда, занимающаяся DiffSinger
+
+!C4
+Name: tigermeat
+Link: https://tigermeat.xyz/
+Folder: tigermeat
+Gradient: #8e3191, #873589
+Description:  Vocal Synth user
+DescriptionRu: Юзер, занимающийся DiffSinger
+
+!C5
+Name: nJokis Labs
+Link: https://njokis-labs.carrd.co/
+Folder: njokislabs
+Gradient: #4bb1f1, #2b9ee7
+Description: Spanish Vocal Synth team
+DescriptionRu: Испанская команда, занимающаяся DiffSinger
+
+!C6
+Name: PRINTmov
+Link: https://www.printmov.com/
+Folder: printmov
+Gradient: #00f5ff, #00c1ff
+Description: Thai Vocal Synth team
+DescriptionRu: Тайская команда, занимающаяся DiffSinger
