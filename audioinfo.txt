@@ -1,9 +1,12 @@
 ja;colorful;Colorful × Melody;Team MOER & OSTER Project;Joshua-san & nmasao1
 ja;flashback;FlashBack;niki;Doodlegirl863
+ja;cantarella;Cantarella ~grace edition~;Kurousa-P;Ryusouta & xXMachiiXx
 ru;dalyoko;Прекрасное далёко;Евгений Крылатов на стихи Юрия Энтина;keirokeer
+ru;muzyka;Музыка нас связала;Мираж;keirokeer
 ru;krestiki;Embroidering Love;LOP-P;LOP-P
 de;badapple;Bad Apple!!;Alstroemeria Records & Nomico;Renoden;StrawbellyCake
 de;meinleben;Mein Leben;Letzte Instanz;LOP-P
 en;twinkle;Twinkle, Twinkle, Little Star;Jane Taylor;keirokeer
 ko;boundary;Boundary;Dr. Yun;Arctic Feast
 ko;stranded;필요조건◎Stranded;WyvernP;WyvernP
+zh;molihua;茉莉花 (Jasmine Flower);Chinese folk song;keirokeer

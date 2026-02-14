@@ -3,11 +3,12 @@ Name: Llane Crow
 Nameru: Ллэйн Кроу
 Page: llane_crow
 Original: 1
-Demo: ru-standard.mp3
-Songs: badapple,meinleben,colorful,flashback,dalyoko,krestiki,twinkle
+Songs: badapple,meinleben,colorful,flashback,dalyoko,muzyka,krestiki,twinkle,boundary
+Demo: muzyka
 CV: LOP-P
 Artist: shikeii
 Gradient: #9d4edd, #3c096c
+ButtonColor: #572481
 Effect: crows
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Llane_Crow_v170.zip
 VM: lady(Feminine, adult vocals;Женственный взрослый вокал)+sty/graceful(Feminine, direct vocals;Женственный прямой вокал)+sty/vivid(Bright and bold vocals;Яркий и дерзкий вокал)+sty/nasal(Nasal and relaxed vocals;Назальный и расслабленный вокал)/manly(Masculine, elegant vocals;Мужественный элегантный вокал)+sty/heavy(Heavy, direct vocals;Тяжёлый прямой вокал)/open(Open and powerful vocals across the entire range;Открытый и сильный на всём диапазоне вокал)/aggressive(Clear vocals designed for rap;Чёткий вокал, предназначенный для рэпа)/silver(Heavy, airy vocals;Тяжёлый воздушный вокал)+sty/kawaii(Childlike vocals;Детский вокал)+sty/sweet(Smiling, gentle vocals;Улыбчивый нежный вокал)/soft(Soft, quiet vocals;Мягкий тихий вокал)/gentle(Standard, but more calm vocals;Стандартный, но более спокойный вокал)/depressive(Tired, airy vocals;Уставший воздушный вокал)+sty/raspy(Hoarse vocals;Хриплый вокал)/growl/vocal fry/whisper(Unvoiced, true breathy vocals; Шепот, вокал с придыханием)+ex/scream
@@ -27,12 +28,12 @@ Name: Keiro Revenant
 Nameru: Кейро Ревенант
 Page: keiro
 Original: 1
-Demo: ru-standard.mp3
 Effect: bats
 Songs: badapple,colorful,dalyoko,twinkle,boundary,stranded
 CV: keirokeer
 Artist: shikeii
 Gradient: #64748b, #0f172a
+ButtonColor: #374c66
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Keiro_Revenant_v170.zip
 VM: native(Normal tone used until 2023. Slightly worse, but has its own peculiarities in tone;Натуральный вокал, записанный до 2023. Чуть хуже качеством, но имеет свои особенности)/cold(Relaxed, languid vocals;Расслабленный, томный вокал)/fragile(Thin, breathless vocals with tears;Тонкий, задыхающийся вокал с надрывами)/mellow(Airy, relaxed vocals;Воздушный, расслабленный вокал)/aggressive(Intense vocals designed for rap;Напряженный вокал, предназначенный для рэпа)/solid(Powerful, chest vocals;Сильный, грудной вокал)/vocal fry/whisper(Unvoiced, true breathy vocals; Шепот, вокал с придыханием)+ex/growl
 Mainlang: ru
@@ -51,14 +52,15 @@ Name: Monone
 Nameru: Мононэ
 Page: monone
 Original: 1
-Demo: ja-standard.mp3
 Songs: colorful,flashback,dalyoko,boundary,stranded
 CV: raikonenightmare
 Author: Victor Von Drew
 Design: rev_bmp
 Artist: shikeii
 Gradient: #e73333ff, #791717ff
+ButtonColor: #a32525
 Effect: rain
+Animportrait: 1
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Monone_v170.zip
 VM: falsetto(Soft, airy vocals;Мягкий, воздушный вокал)/locked(Offended, tense vocals;Обиженный, напряженный вокал)/masculine(Manly vocals;Мужественный вокал)/growl
 Mainlang: ja
@@ -76,11 +78,12 @@ Name: Liam Thorne
 Nameru: Лиам Торн
 Page: liam
 Original: 1
-Demo: ru-standard.mp3
 Songs: colorful,dalyoko,flashback,badapple,twinkle,boundary,stranded
 CV: Rampie
 Artist: shikeii
 Gradient: #716985ff, #1c1325ff
+ButtonColor: #514868
+Animportrait: 1
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Liam_Thorne_v170.zip
 VM: gentle(Young, whispery vocals;Нежный, тихий вокал)/tired(Closed, dark vocals;Закрытый вокал)/deep(Adult, classic vocals;Взрослый, классический вокал)/powerful(Clear, chest vocals;Сильный, грудной вокал)/aggressive(Bold, flexible vocals designed for rap;Дерзкий, гибкий вокал, предназначенный для рэпа)/rock(Bright, intense vocals;Звонкий, напряженный вокал)/crispy(Husky, sharp vocals;Сиплый, чёткий вокал)/vocal fry/growl
 Mainlang: ru
@@ -98,11 +101,11 @@ Name: Nero
 Nameru: Нэро
 Page: nero
 Original: 1
-Demo: ru-standard.mp3
 Songs: badapple,colorful,dalyoko,boundary
 CV: kai8780
 Artist: ELGD
 Gradient: #ce3045ff, #791b23ff
+ButtonColor: #962635
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Nero_v170.zip
 VM: airy(Airy, soft vocals;Воздушный, мягкий вокал)/calm(Soft, sweet vocals;Мягкий, милый вокал)/ballad(Open, dynamic, strong vocals;Открытый, динамичный, сильный вокал)/solid(Solid, powerful, low vocals;Твердый, низкий вокал)/joyful(Smiley, open, sweet vocals;Улыбчивый, открытый, милый вокал)/bright(Strong, dynamic vocals;Сильный, динамичный вокал)/growl
 Mainlang: ru
@@ -123,11 +126,11 @@ Name: M1NT0
 Nameru: Минто
 Page: m1nt0
 Original: 1
-Demo: ru-standard.mp3
 Songs: badapple,colorful,dalyoko,stranded
 CV: neirina
 Artist: shikeii
-Gradient: #b8a014ff, #766c0fff
+Gradient: #b89a14ff, #806e0cff
+ButtonColor: #aa8200
 Effect: chains
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/M1NT0_v170.zip
 VM: power(Open, intense vocals;Открытый, напряженный вокал)/sweet(Smooth, smiling vocals, recorded in 2018 for the UTAU engine;Мягкий, улыбчивый вокал, записанный в 2018 для движка UTAU)/tired(Sad, soft vocals;Грустный, мягкий вокал)/growl
@@ -146,11 +149,11 @@ Name: Albus Korde
 Nameru: Альбус Кордэ
 Page: albus_korde
 Original: 1
-Demo: ru-standard.mp3
 Songs: colorful,dalyoko,twinkle
 CV: serverpodivan
 Artist: shikeii
 Gradient: #ce3530ff, #791e1bff
+ButtonColor: #c02c27
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Albus_Korde_v170.zip
 VM: flos(Soft, like a spring-morning dewdrop. A light, airy vocal with delicate breath presence, smoothly floating within the surrounding textures and blending seamlessly into the mix;Нежный, как росинка ранним весенним утром. Воздушный вокал, в котором слышится лёгкое дыхание, мягко скользит сквозь звучание и естественно сливается с общей атмосферой трека)/acerbitas(A forward-placed vocal with a fine, controlled rasp and a hint of edge roughness, colored by a softly irritated tension expressed through a tightened consonant attack and a deliberately restrained dynamic release;Forward-placed вокал: тонкая, управляемая хрипотца и лёгкая шероховатость на грани раздраженного напряжения - оно проявляется в жёсткой атаке согласных и намеренно сдержанной динамике)/ignis(A ragged, almost compressed high end: A scream driven by internal overload from anger and pain, breaking at its highest peaks into a bright, cutting falsetto;Рваный, почти задавленный крик, рождённый внутренним перегрузом злости и боли, на предельно высоких нотах взрывающийся в яркий, режущий слух фальцет)/growl
 Mainlang: ru
@@ -166,19 +169,49 @@ YT: https://www.youtube.com/@ServerPodivan
 TG: https://t.me/TouToisan
 
 !S8
+Name: SAiFA
+Nameru: Сайфа
+Page: saifa
+Effect: matrix
+Original: 1
+Songs: badapple,colorful,flashback,cantarella,dalyoko,twinkle,boundary,stranded,molihua
+CV: shikeii
+Artist: shikeii
+Altimg: SAiFA youthful by shikeii,SAiFA strong by shikeii
+Gradient: #3118bbff, #2811a6ff
+ButtonColor: #2a18b6
+Tag: new
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/SAiFA_v170.zip
+VM: strong(Powerful, intense vocals;Сильный, напряженный вокал)/youthful(Solid, young vocals;Твердый, молодой вокал)/cursive(Heavy, airy vocals;Тяжёлый, воздушный вокал)/soft(Gentle, relaxed vocals;Нежный, расслабленный вокал)/whisper(Unvoiced, true breathy vocals; Шепот, вокал с придыханием)+ex/growl
+Mainlang: ru
+Imgs: SAiFA youthful by shikeii,SAiFA m-type by shikeii,SAiFA strong by shikeii,Concept art by shikeii
+Info: The virtual singer from Russia
+Inforu: Виртуальный вокалист из России
+Infoja: ロシア出身のバーチャルシンガー
+Prod: shikeii, keirokeer, Rampie, LOP-P, kai8780, mii-chandesu
+Assist: PixPrucer, Tigermeat, Utau French Resources (Millefeuille), Team Coda, Team Brapa
+Growl: LOP-P
+Web: https://shikeii.carrd.co/
+X: https://x.com/shikei_i
+YT: https://www.youtube.com/@shikeii
+TG: https://t.me/shikeii
+
+!S9
 Name: Gahata Meiji
 Nameja: 歌幡メイジ
 Nameru: Гахата Мейджи
 Page: gahata_meiji
-Demo: ja-standard.mp3
 Songs: badapple,colorful,flashback,dalyoko,twinkle,stranded
 CV: CuromiSaccu
 Artist: CuromiSaccu
 Gradient: #e26ebfff, #882e6dff
+ButtonColor: #b64e9f
+Animportrait: 1
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Gahata_Meiji_v170.zip
-VM: hunter/lilith/phantom
+VM: (The voice of a girl who had been dreaming through a frozen silence, the moment she quietly opened her eyes. A single breath of softness, a gentle sweetness still hiding a childlike secret.\n\nStandard is Meiji’s bare, unadorned voice. A passing whisper, a murmur spoken to soothe her solitude — everything melts straight into the music.\n\nNeutral, easy to shape.;Голос девушки, долго дремавшей в ледяной тишине — в момент, когда она тихо открывает глаза. Один вздох нежности, тихая сладость, в которой ещё таится детская тайна.\n\nStandard — это «голый», ничем не приукрашенный голос Мейджи. Мимолётный шёпот, бормотание, чтобы унять одиночество — всё тает и растворяется в музыке.\n\nНейтральный, податливый, словно врата в её мир.;凍りつくような静寂の中で長い夢を見続けていた少女がそっと目を開けたときの声。ひと呼吸ぶんの柔らかさと、幼い秘密を隠したままの静かな甘さ。\n\nStandard はメイジの“素声”のような存在です。ふとした囁きも、孤独を沈めるためのひとりごとも、そのまま曲に溶けていきます。\n\nニュートラルで扱いやすく、彼女の世界の入口となる声色。)/hunter(When Meiji wakes from her long sleep and draws her first sharp breath to face the world, the tension in her mid-range flies like an arrow, piercing the listener’s chest one note at a time.\n\nHunter is the embodiment of power — a voice infused with strength and intent.\n\nA sound of awakening, most resonant in rock, emo, and songs that demand speed and force.;Когда Мейджи просыпается от долгого сна и впервые резко вдыхает, встречая мир, напряжение среднего регистра летит, как стрела, пронзая грудь слушателя с каждой нотой.\n\nHunter — воплощение силы: голос, наполненный мощью и намерением.\n\nГолос пробуждения, лучше всего звучащий в роке, эмо и песнях, требующих скорости и напора.;眠りから覚めたメイジが、世界を見据えて初めて息を鋭く吸い込む瞬間。中音域の張りは矢のように放たれ、歌うたび、胸の奥をひとつずつ射抜いていきます。\n\nHunter はパワーの象徴。強さと意思を宿した声色です。\n\nロック、エモ、疾走感のある曲に最もよく響く、覚醒の声。)/lilith(Soft, light, and touched with a hint of allure. Lilith is the sound of that moment when Meiji thinks up a small mischief — a voice where that gently bouncing feeling turns straight into music.\n\nIt slips easily into delicate melodies and even into lullabies laced with poison, flitting whimsically between whisper and song.\n\nA delicate little devil, where Meiji’s most charming whims reveal themselves.;Мягкий, лёгкий, с оттенком обаяния. Lilith — это звук того момента, когда Мейджи задумывает маленькую шалость: голос, в котором нежно-игривое чувство прямо переливается в музыку.\n\nЛегко ложится на нежные мелодии и даже на колыбельные с примесью яда, порхая между шёпотом и пением.\n\nХрупкий маленький бес, в котором раскрываются самые очаровательные капризы Мейджи.;素直で、軽やかで、どこか艶が差し込む。Lilith は彼女が少しだけ悪戯を思いついたときの、あの“ふわりと跳ねる感情”がそのまま音になったような声色です。\n\n可憐な旋律にも、毒入りの子守歌にも馴染み、囁きと歌の間を気まぐれに行き来します。\n\n最も“メイジらしい気まぐれ”が表れる、繊細な小悪魔。)/phantom(Phantom is Meiji with her very presence thinned to a whisper. Her voice is like mist—slipping through the fingers, yet undeniably there, and when she sings, only the shadow seems to sway.\n\nIts breathy softness and the quiet loneliness hidden deep within balance each other with uncanny precision, creating a spectral tone that can sound languid or unexpectedly strong.\n\nIt rests most beautifully beside music steeped in decadence, ambient soundscapes, and dark, aesthetic worlds.;Phantom — это Мейджи, чьё присутствие истончено до шёпота. Голос как туман: ускользает сквозь пальцы, но незримо здесь, и когда она поёт, кажется, колышется лишь тень.\n\nДыхательная мягкость и тихая тоска, скрытая в глубине, с призрачной точностью уравновешивают друг друга — тон то томный, то неожиданно сильный.\n\nПрекраснее всего звучит рядом с музыкой декаданса, эмбиента и тёмных эстетических миров.;Phantom は存在の濃度をそっと下げたメイジ。声は霧のようで、指を通り抜けてしまう。けれど確かにそこにいて、歌えば影だけがゆっくりと揺れる。\n\n息寄りの柔らかさと、奥に潜む寂しさのバランスが絶妙で、気だるげにも強くも歌える幽気の声色。\n\n退廃、アンビエント、耽美な曲想に最も美しく寄り添う。)
 Mainlang: ja
-Videmo: m0R71_1LuDo
+Videmo: m0R71_1LuDo,vjp_4mSu-fM,T7_Lyb5RoF4,TRlF-XtTY1o
+Imgs: Gahata Meiji (alt) by CuromiSaccu,Official Logo by CuromiSaccu
 Info: The virtual singer from Japan
 Inforu: Виртуальный вокалист из Японии
 Infoja: 日本出身のバーチャルシンガー
@@ -186,22 +219,24 @@ Prod: keirokeer, LOP-P, Rampie, mii-chandesu
 Pitch: LOP-P
 X: https://x.com/curomismiumiu
 YT: https://www.youtube.com/@curomismiumiu
+Web: https://curomismiumiu.wixsite.com/majolicamaiden
 
-!S9
+!S10
 Name: Karasu Yuutsukoe
 Nameja: 湯鬱声からす
 Nameru: Карасу Юутсукое
 Page: karasu
-Demo: ja-standard.mp3
 Songs: badapple,colorful,dalyoko,twinkle
 CV: rev_bmp
 Artist: rev_bmp
 Gradient: #d42e2eff, #741616ff
+ButtonColor: #b62121
+Animportrait: 1
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Karasu_Yuutsukoe_v160.zip
 VM: core(A solid voice with a classic tone;Твёрдый голос с классическим тембром)/defiant(A strong voice with a harsh tone;Сильный голос с резким тембром)/grim(A dark voice with a somber tone;Мрачный голос с сумрачным тембром)/hollow(A whispering voice with a gentle tone;Приглушённый, воздушный голос с мягким тембром)/plume(A melodic and nostalgic voice;Мелодичный и ностальгический голос)/rebellion(A nostalgic and emotional voice;Ностальгический и эмоциональный голос)/soaring(A vivid and bright voice;Живой и яркий голос)/growl
 Mainlang: ja
 Videmo: Fu7UVjuXvn0,kr5NXNc44xk,BLm0ehhBR7o,jxLzl1QsMpE
-Imgs: Karasu Yuutsukoe by rev_bmp (alt1),Karasu Yuutsukoe by rev_bmp (alt2),Karasu Yuutsukoe by rev_bmp (alt3)
+Imgs: Karasu Yuutsukoe by rev_bmp (alt1),Karasu Yuutsukoe by rev_bmp (alt2),Karasu Yuutsukoe by rev_bmp (alt3),Concept art by rev_bmp
 Info: The virtual singer
 Inforu: Виртуальный вокалист
 Infoja: バーチャルシンガー
@@ -209,16 +244,17 @@ Prod: rev_bmp, PixPrucer, keirokeer, mii-chandesu, Rampie
 X: https://x.com/rev_bmp
 YT: https://www.youtube.com/@rev_bmp
 
-!S10
+!S11
 Name: Kuro Bousuku
 Nameja: 黒昴宿
 Nameru: Куро Боску
 Page: kurobousuku
-Demo: ja-standard.mp3
 Songs: colorful,flashback,dalyoko
 CV: ATSUYA
 Artist: 蓮鍵(Husky)
 Gradient: #64748b, #0f172a
+ButtonColor: #3b4e68
+Animportrait: 1
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Kuro_Bousuku_v170.zip
 VM: soft(A gentle voice;Нежный голос)/dark(A sad and melancholic voice;Грустный и меланхоличный голос)/warm(A welcoming and sweet voice;Радушный и сладкий голос)/open mouth(A vivid and bright voice;Живой и яркий голос)/rock(A harsh and aggressive voice;Резкий и агрессивный голос)/powerful(A scratchy and screaming voice;Хриплый, кричащий голос)/vocal fry/growl
 Mainlang: ja
@@ -233,16 +269,16 @@ X: https://x.com/aTSuYaMiCHiKuSa
 YT: https://www.youtube.com/@atsuya_2014
 Web: https://atsuya19960924.wixsite.com/akasubaru
 
-!S11
+!S12
 Name: Aka Subaru
 Nameja: 赤星河
 Nameru: Ака Субару
 Page: akasubaru
-Demo: ja-standard.mp3
 Songs: colorful,flashback,dalyoko,twinkle
 CV: ATSUYA
 Artist: urchin-p
 Gradient: #d4b423ff, #9c870dff
+ButtonColor: #a38500
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Aka_Subaru_v170.zip
 VM: soft(Gentle vocals;Нежный вокал)/powerful(Scratchy, strong vocals;Хриплый, сильный вокал)
 Mainlang: ja
@@ -256,16 +292,16 @@ X: https://x.com/aTSuYaMiCHiKuSa
 YT: https://www.youtube.com/@atsuya_2014
 Web: https://atsuya19960924.wixsite.com/akasubaru
 
-!S12
+!S13
 Name: Amaboshi Cipher
 Nameja: 雨星サイファ
 Nameru: Амабоши Сайфер
 Page: amaboshi_cipher
-Demo: ja-standard.mp3
 Songs: badapple,colorful,flashback,dalyoko,twinkle
 CV: Chikano1582
 Artist: Chikano1582
 Gradient: #527194ff, #101c2eff
+ButtonColor: #335883
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Amaboshi_Cipher_v170.zip
 VM: strong(Powerful, intense vocals;Сильный, напряженный вокал)/whisper(Soft, young vocals;Мягкий, молодой вокал)/growl
 Mainlang: ja
@@ -278,17 +314,17 @@ Growl: LOP-P
 Web: https://parapluie2c56m.wixsite.com/mysite
 X: https://x.com/chikano1582
 
-!S13
+!S14
 Name: Denka Shaa
 Nameja: 電歌シャー
 Nameru: Денка Шаа
 Page: denka_shaa
-Demo: ja-standard.mp3
 Songs: badapple,colorful,dalyoko,twinkle
 CV: 2ТЭ10У-0337
 Author: leonid kanevsky
 Artist: leonid kanevsky
 Gradient: #ce5030ff, #79291bff
+ButtonColor: #ce3914
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Denka_Shaa_v170.zip
 VM: soft(Gentle, whispery vocals, made artificially;Мягкий, шепчущий вокал, сделанный искусственно)
 Mainlang: ja
@@ -299,15 +335,15 @@ Infoja: 電車の音から生まれたバーチャルシンガー
 Prod: leonid kanevsky, keirokeer, mii-chandesu, Rampie
 YT: https://www.youtube.com/@leonidkanevsky202
 
-!S14
+!S15
 Name: Nessie
 Nameru: Несси
 Page: nessie
-Demo: ru-standard.mp3
 Songs: badapple,colorful,flashback,dalyoko
 CV: EtoNessie
 Artist: EtoNessie
 Gradient: #f3997eff, #e76e3eff
+ButtonColor: #d66543
 Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Nessie_v170.zip
 VM: soft(Gentle vocals;Нежный вокал)/cute(Sweet, catroon vocals;Сладкий, мультяшный вокал)
@@ -323,16 +359,16 @@ VK: https://vk.com/etonessie
 YT: https://www.youtube.com/@etonessie
 TG: https://t.me/etonessie
 
-!S15
+!S16
 Name: Ohne Kuno
 Nameja: 大音クノ
 Nameru: Онэ Куно
 Page: ohne_kuno
-Demo: de-standard.mp3
 Songs: badapple,colorful,dalyoko,twinkle
 CV: Dän
 Artist: Myiko
 Gradient: #d86ee2ff, #852e88ff
+ButtonColor: #a543a8
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Ohne_Kuno_v170.zip
 VM: power(Powerful vocals;Сильный вокал)/soft(Gentle vocals;Нежный вокал)
 Mainlang: de
@@ -346,16 +382,16 @@ X: https://x.com/itsBellDan
 YT: https://www.youtube.com/@BellDan
 BB: https://space.bilibili.com/386213079
 
-!S16
+!S17
 Name: Natsume Juli
 Nameja: 夏目悠李
 Nameru: Нацумэ Джули
 Page: natsume_juli
-Demo: ja-standard.mp3
 Songs: badapple,colorful,flashback,dalyoko,twinkle,boundary,stranded
 CV: Kirino Sohta
 Artist: UNF
 Gradient: #7ac9eaff, #1e7cb8ff
+ButtonColor: #379fcc
 Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Natsume_Juli_v170.zip
 VM: dark(Gentle, relaxed vocals;Нежный, расслабленный вокал)
