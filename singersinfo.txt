@@ -184,6 +184,7 @@ Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/SAiFA_v170.zip
 VM: strong(Powerful, intense vocals;Сильный, напряженный вокал)/youthful(Solid, young vocals;Твердый, молодой вокал)/cursive(Heavy, airy vocals;Тяжёлый, воздушный вокал)/soft(Gentle, relaxed vocals;Нежный, расслабленный вокал)/whisper(Unvoiced, true breathy vocals; Шепот, вокал с придыханием)+ex/growl
 Mainlang: ru
+Videmo: Blhl7uwPoT4
 Imgs: SAiFA youthful by shikeii,SAiFA m-type by shikeii,SAiFA strong by shikeii,Concept art by shikeii
 Info: The virtual singer from Russia
 Inforu: Виртуальный вокалист из России
