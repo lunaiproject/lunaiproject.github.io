@@ -1,21 +1,21 @@
 {
   "singers": [
-    { "name": "Llane Crow", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Llane_Crow_v170.zip" },
-    { "name": "Keiro Revenant", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Keiro_Revenant_v170.zip" },
-    { "name": "Monone", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Monone_v170.zip" },
-    { "name": "Liam Thorne", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Liam_Thorne_v170.zip" },
-    { "name": "Nero", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Nero_v170.zip" },
-    { "name": "M1NT0", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/M1NT0_v170.zip" },
-    { "name": "Albus Korde", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Albus_Korde_v170.zip" },
-    { "name": "SAiFA", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/SAiFA_v170.zip" },
-    { "name": "Gahata Meiji", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Gahata_Meiji_v170.zip" },
-    { "name": "Karasu Yuutsukoe", "version": "160", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Karasu_Yuutsukoe_v160.zip" },
-    { "name": "Kuro Bousuku", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Kuro_Bousuku_v170.zip" },
-    { "name": "Aka Subaru", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Aka_Subaru_v170.zip" },
-    { "name": "Amaboshi Cipher", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Amaboshi_Cipher_v170.zip" },
-    { "name": "Denka Shaa", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Denka_Shaa_v170.zip" },
-    { "name": "Nessie", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Nessie_v170.zip" },
-    { "name": "Ohne Kuno", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Ohne_Kuno_v170.zip" },
-    { "name": "Natsume Juli", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Natsume_Juli_v170.zip" }
+    { "name": "Llane Crow", "code": "llane_crow", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Llane_Crow_v170.zip", "company": "LUNAI Project" },
+    { "name": "Keiro Revenant", "code": "keiro", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Keiro_Revenant_v170.zip", "company": "LUNAI Project" },
+    { "name": "Monone", "code": "monone", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Monone_v170.zip", "company": "LUNAI Project" },
+    { "name": "Liam Thorne", "code": "liam", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Liam_Thorne_v170.zip", "company": "LUNAI Project" },
+    { "name": "Nero", "code": "nero", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Nero_v170.zip", "company": "LUNAI Project" },
+    { "name": "M1NT0", "code": "m1nt0", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/M1NT0_v170.zip", "company": "LUNAI Project" },
+    { "name": "Albus Korde", "code": "albus_korde", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Albus_Korde_v170.zip", "company": "LUNAI Project" },
+    { "name": "SAiFA", "code": "saifa", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/SAiFA_v170.zip", "company": "LUNAI Project" },
+    { "name": "Gahata Meiji", "code": "gahata_meiji", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Gahata_Meiji_v170.zip", "company": "LUNAI Project" },
+    { "name": "Karasu Yuutsukoe", "code": "karasu", "version": "160", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Karasu_Yuutsukoe_v160.zip", "company": "LUNAI Project" },
+    { "name": "Kuro Bousuku", "code": "kurobousuku", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Kuro_Bousuku_v170.zip", "company": "LUNAI Project" },
+    { "name": "Aka Subaru", "code": "akasubaru", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Aka_Subaru_v170.zip", "company": "LUNAI Project" },
+    { "name": "Amaboshi Cipher", "code": "amaboshi_cipher", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Amaboshi_Cipher_v170.zip", "company": "LUNAI Project" },
+    { "name": "Denka Shaa", "code": "denka_shaa", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Denka_Shaa_v170.zip", "company": "LUNAI Project" },
+    { "name": "Nessie", "code": "nessie", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Nessie_v170.zip", "company": "LUNAI Project" },
+    { "name": "Ohne Kuno", "code": "ohne_kuno", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Ohne_Kuno_v170.zip", "company": "LUNAI Project" },
+    { "name": "Natsume Juli", "code": "natsume_juli", "version": "170", "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Natsume_Juli_v170.zip", "company": "LUNAI Project" }
   ]
 }
