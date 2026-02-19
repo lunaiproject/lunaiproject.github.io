@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "id": "1473700230384844912",
+      "date": "2026-02-18",
+      "title": "⚡ OpenUtau Lunai 0.1.3.3 update has been released!",
+      "content": "⚡ <strong>OpenUtau Lunai 0.1.3.3 update has been released!</strong>\n\n<em>This is a test build. You may encounter bugs and crashes when using it</em>\n\nChange log:\n\n- <strong>Singer Hub:</strong> a place where you can <strong>update</strong> or <strong>install</strong> DiffSinger voicebanks form trusted sources (currently Lunai, UFR and Brapa). <em>In the future, we plan to make it possible to add your own singers here.</em> It appears on the screen when you launch it, or you can open it in Tools -> Singer Hub... (pic. 1-3)\n- <strong>Solid playback line</strong>: this feature has been improved and is now in Preferences -> Playback (pic. 4)\n- <strong>TikTok recording mode</strong>: a test function that contains a preset for recording TikTok. It automatically detaches the piano roll in a separate window with a size of 9x16, change \"Auto-Scroll\" to \"Stationary Cursor\" with margin \"0.5\" and turn on \"Solid playback line\". To turn it on, go to View -> Piano Roll -> TikTok recording mode. To disable it and return your settings, disable it in the same place (pic. 5)\n- Improved <strong>smoothness</strong> of screen movement when \"Stationary Cursor\" is enabled.\n- .NET 8 was updated to .NET 10 (<a href=\"https://github.com/stakira/OpenUtau/pull/1966 \" target=\"_blank\" rel=\"noopener noreferrer\">#1966</a>)\n\nHope all these innovations will make your experience in the program more convenient 💖 \n\nYou can simply <strong>open your OpenUtau Lunai</strong> to <strong>receive the update</strong> notification, or install it here:\n<a href=\"https://github.com/keirokeer/OpenUtau-DiffSinger-Lunai/releases/tag/0.1.3.3\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/keirokeer/OpenUtau-DiffSinger-Lunai/releases/tag/0.1.3.3</a>",
+      "image": "discord-1473700230384844912.png"
+    },
+    {
       "id": "1472245855091298337",
       "date": "2026-02-14",
       "title": "On Valentine's Day, we introduce you to SAiFA, our newest member!",
