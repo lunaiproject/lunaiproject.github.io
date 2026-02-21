@@ -169,6 +169,32 @@ YT: https://www.youtube.com/@ServerPodivan
 TG: https://t.me/TouToisan
 
 !S8
+Name: Katyusha
+Nameru: Катюша
+Page: katyusha
+Original: 1
+Effect: flowers
+Songs: badapple,colorful,flashback,cantarella,dalyoko,muzyka,twinkle,boundary,stranded,molihua
+CV: Kaido Ren
+Artist: shikeii
+Gradient: #326399ff, #1d4d83ff
+ButtonColor: #1d4f86
+Animportrait: 1
+Tag: new
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Katyusha_v170.zip
+VM: strong(Powerful, intense vocals;Сильный, напряженный вокал)/delicate(Gentle, direct vocals;Нежный, прямой вокал)/lullaby(Soft, soothing vocals;Мягкий, убаюкивающий вокал)
+Mainlang: ru
+Videmo: 
+Imgs: Concept art by shikeii
+Info: The virtual singer from Russia
+Inforu: Виртуальный вокалист из России
+Infoja: ロシア出身のバーチャルシンガー
+Prod: keirokeer, LOP-P, Rampie, kai8780, mii-chandesu
+Assist: PixPrucer, Tigermeat, Utau French Resources (Millefeuille), Team Coda, Team Brapa
+YT: https://www.youtube.com/@KaidoRen
+TG: https://t.me/kaidorencovers
+
+!S9
 Name: SAiFA
 Nameru: Сайфа
 Page: saifa
@@ -197,7 +223,7 @@ X: https://x.com/shikei_i
 YT: https://www.youtube.com/@shikeii
 TG: https://t.me/shikeii
 
-!S9
+!S10
 Name: Gahata Meiji
 Nameja: 歌幡メイジ
 Nameru: Гахата Мейджи
@@ -222,7 +248,7 @@ X: https://x.com/curomismiumiu
 YT: https://www.youtube.com/@curomismiumiu
 Web: https://curomismiumiu.wixsite.com/majolicamaiden
 
-!S10
+!S11
 Name: Karasu Yuutsukoe
 Nameja: 湯鬱声からす
 Nameru: Карасу Юутсукое
@@ -245,7 +271,7 @@ Prod: rev_bmp, PixPrucer, keirokeer, mii-chandesu, Rampie
 X: https://x.com/rev_bmp
 YT: https://www.youtube.com/@rev_bmp
 
-!S11
+!S12
 Name: Kuro Bousuku
 Nameja: 黒昴宿
 Nameru: Куро Боску
@@ -270,7 +296,7 @@ X: https://x.com/aTSuYaMiCHiKuSa
 YT: https://www.youtube.com/@atsuya_2014
 Web: https://atsuya19960924.wixsite.com/akasubaru
 
-!S12
+!S13
 Name: Aka Subaru
 Nameja: 赤星河
 Nameru: Ака Субару
@@ -293,7 +319,7 @@ X: https://x.com/aTSuYaMiCHiKuSa
 YT: https://www.youtube.com/@atsuya_2014
 Web: https://atsuya19960924.wixsite.com/akasubaru
 
-!S13
+!S14
 Name: Amaboshi Cipher
 Nameja: 雨星サイファ
 Nameru: Амабоши Сайфер
@@ -315,7 +341,7 @@ Growl: LOP-P
 Web: https://parapluie2c56m.wixsite.com/mysite
 X: https://x.com/chikano1582
 
-!S14
+!S15
 Name: Denka Shaa
 Nameja: 電歌シャー
 Nameru: Денка Шаа
@@ -336,7 +362,7 @@ Infoja: 電車の音から生まれたバーチャルシンガー
 Prod: leonid kanevsky, keirokeer, mii-chandesu, Rampie
 YT: https://www.youtube.com/@leonidkanevsky202
 
-!S15
+!S16
 Name: Nessie
 Nameru: Несси
 Page: nessie
@@ -345,7 +371,6 @@ CV: EtoNessie
 Artist: EtoNessie
 Gradient: #f3997eff, #e76e3eff
 ButtonColor: #d66543
-Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Nessie_v170.zip
 VM: soft(Gentle vocals;Нежный вокал)/cute(Sweet, catroon vocals;Сладкий, мультяшный вокал)
 Mainlang: ru
@@ -360,7 +385,7 @@ VK: https://vk.com/etonessie
 YT: https://www.youtube.com/@etonessie
 TG: https://t.me/etonessie
 
-!S16
+!S17
 Name: Ohne Kuno
 Nameja: 大音クノ
 Nameru: Онэ Куно
@@ -383,7 +408,7 @@ X: https://x.com/itsBellDan
 YT: https://www.youtube.com/@BellDan
 BB: https://space.bilibili.com/386213079
 
-!S17
+!S18
 Name: Natsume Juli
 Nameja: 夏目悠李
 Nameru: Нацумэ Джули

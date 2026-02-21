@@ -65,6 +65,14 @@
       "host": "lunai"
     },
     {
+      "name": "Katyusha",
+      "code": "katyusha",
+      "version": "170",
+      "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Katyusha_v170.zip",
+      "company": "LUNAI Project",
+      "host": "lunai"
+    },
+    {
       "name": "Gahata Meiji",
       "code": "gahata_meiji",
       "version": "170",
