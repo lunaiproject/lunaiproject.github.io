@@ -184,7 +184,7 @@ Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Katyusha_v170.zip
 VM: strong(Powerful, intense vocals;Сильный, напряженный вокал)/delicate(Gentle, direct vocals;Нежный, прямой вокал)/lullaby(Soft, soothing vocals;Мягкий, убаюкивающий вокал)
 Mainlang: ru
-Videmo: 
+Videmo: 1DY-yf3PKYg
 Imgs: Concept art by shikeii
 Info: The virtual singer from Russia
 Inforu: Виртуальный вокалист из России
