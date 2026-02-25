@@ -149,7 +149,7 @@ Name: Albus Korde
 Nameru: Альбус Кордэ
 Page: albus_korde
 Original: 1
-Songs: colorful,dalyoko,twinkle
+Songs: colorful,dalyoko,twinkle,lumiere
 CV: serverpodivan
 Artist: shikeii
 Gradient: #ce3530ff, #791e1bff

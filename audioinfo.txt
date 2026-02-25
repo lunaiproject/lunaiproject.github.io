@@ -10,3 +10,4 @@ en;twinkle;Twinkle, Twinkle, Little Star;Jane Taylor;keirokeer
 ko;boundary;Boundary;Dr. Yun;Arctic Feast
 ko;stranded;필요조건◎Stranded;WyvernP;WyvernP
 zh;molihua;茉莉花 (Jasmine Flower);Chinese folk song;keirokeer
+fr;lumiere;Lumière;Lorien Testard & Alice Duport-Percier;serverpodivan
