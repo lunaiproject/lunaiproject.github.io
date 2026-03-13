@@ -190,6 +190,7 @@ Effect: crows
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Allen_Crow_v170.zip
 VM:  heavy(Direct, strong vocals;Прямой сильный вокал)/open(Open vocals, intended for notes above C4;Открытый вокал, предназначен для нот выше C4)/gentle(Soft vocals, intended for notes above C4;Мягкий вокал, предназначен для нот выше C4)/whisper(Unvoiced, true breathy vocals; Шепот, вокал с придыханием)+ex
 Mainlang: ru
+Videmo: zGYK9lijnNE
 Imgs: Concept art by rev_bmp,Alternative design by LOP-P,Alternative design (2) by LOP-P
 Info: Mirror reflection of Llane Crow
 Inforu: Зеркальное отражение Llane Crow
