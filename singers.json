@@ -143,6 +143,14 @@
       "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Natsume_Juli_v170.zip",
       "company": "LUNAI Project",
       "host": "lunai"
+    },
+    {
+      "name": "Allen Crow",
+      "code": "allen_crow",
+      "version": "170",
+      "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Allen_Crow_v170.zip",
+      "company": "LUNAI Project",
+      "host": "lunai"
     }
   ]
 }

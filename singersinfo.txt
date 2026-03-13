@@ -6,6 +6,7 @@ Original: 1
 Songs: badapple,meinleben,colorful,flashback,dalyoko,muzyka,krestiki,twinkle,boundary
 Demo: muzyka
 CV: LOP-P
+Design: rev_bmp, LOP-P
 Artist: shikeii
 Gradient: #9d4edd, #3c096c
 ButtonColor: #572481
@@ -19,6 +20,7 @@ Info: The first virtual AI singer from Russia
 Inforu: Первый виртуальный ИИ вокалист из России
 Infoja: ロシア初のAIバーチャルシンガー
 Prod: LOP-P, keirokeer, mii-chandesu, Rampie
+Series: crow
 X: https://x.com/CrowPyoRaven339
 YT: https://www.youtube.com/@LoverOfPurple
 DS: cherry_crow
@@ -141,6 +143,7 @@ Inforu: Виртуальный вокалист из России
 Infoja: ロシア出身のバーチャルシンガー
 Prod: keirokeer, Rampie, mii-chandesu, LOP-P
 Growl: LOP-P
+Series: team1
 X: https://x.com/_neirina
 YT: https://www.youtube.com/@neirina
 
@@ -154,6 +157,7 @@ CV: serverpodivan
 Artist: shikeii
 Gradient: #ce3530ff, #791e1bff
 ButtonColor: #c02c27
+Effect: cardiogram
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Albus_Korde_v170.zip
 VM: flos(Soft, like a spring-morning dewdrop. A light, airy vocal with delicate breath presence, smoothly floating within the surrounding textures and blending seamlessly into the mix;Нежный, как росинка ранним весенним утром. Воздушный вокал, в котором слышится лёгкое дыхание, мягко скользит сквозь звучание и естественно сливается с общей атмосферой трека)/acerbitas(A forward-placed vocal with a fine, controlled rasp and a hint of edge roughness, colored by a softly irritated tension expressed through a tightened consonant attack and a deliberately restrained dynamic release;Forward-placed вокал: тонкая, управляемая хрипотца и лёгкая шероховатость на грани раздраженного напряжения - оно проявляется в жёсткой атаке согласных и намеренно сдержанной динамике)/ignis(A ragged, almost compressed high end: A scream driven by internal overload from anger and pain, breaking at its highest peaks into a bright, cutting falsetto;Рваный, почти задавленный крик, рождённый внутренним перегрузом злости и боли, на предельно высоких нотах взрывающийся в яркий, режущий слух фальцет)/growl
 Mainlang: ru
@@ -163,12 +167,41 @@ Inforu: Виртуальный вокалист из России
 Infoja: ロシア出身のバーチャルシンガー
 Prod: keirokeer, LOP-P, mii-chandesu, Rampie, serverpodivan
 Growl: LOP-P
+Series: team1
 InfoCV: He roams the world, he chasing parmesan… An artist, a translator, a voice provider.
 InfoCVru: Он путешествует, он ищет пармезан... Художник, переводчик, войс-провайдер.
 YT: https://www.youtube.com/@ServerPodivan
 TG: https://t.me/TouToisan
 
 !S8
+Name: Allen Crow
+Nameru: Аллен Кроу
+Page: allen_crow
+Original: 1
+Songs: dalyoko,colorful,boundary
+Demo: dalyoko
+CV: LOP-P
+Design: rev_bmp, LOP-P, shikeii
+Artist: shikeii
+Gradient: #63478a, #3c245d
+ButtonColor: #43266b
+Tag: new
+Effect: crows
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Allen_Crow_v170.zip
+VM:  heavy(Direct, strong vocals;Прямой сильный вокал)/open(Open vocals, intended for notes above C4;Открытый вокал, предназначен для нот выше C4)/gentle(Soft vocals, intended for notes above C4;Мягкий вокал, предназначен для нот выше C4)/whisper(Unvoiced, true breathy vocals; Шепот, вокал с придыханием)+ex
+Mainlang: ru
+Imgs: Concept art by rev_bmp,Alternative design by LOP-P,Alternative design (2) by LOP-P
+Info: Mirror reflection of Llane Crow
+Inforu: Зеркальное отражение Llane Crow
+Infoja: Llane Crowの映し身
+Prod: LOP-P, keirokeer, mii-chandesu, Rampie
+Pitch: DIVON, LOP-P
+Series: crow
+X: https://x.com/CrowPyoRaven339
+YT: https://www.youtube.com/@LoverOfPurple
+DS: cherry_crow
+
+!S9
 Name: Katyusha
 Nameru: Катюша
 Page: katyusha
@@ -194,7 +227,7 @@ Assist: PixPrucer, Tigermeat, Utau French Resources (Millefeuille), Team Coda, T
 YT: https://www.youtube.com/@KaidoRen
 TG: https://t.me/kaidorencovers
 
-!S9
+!S10
 Name: SAiFA
 Nameru: Сайфа
 Page: saifa
@@ -218,12 +251,13 @@ Infoja: ロシア出身のバーチャルシンガー
 Prod: shikeii, keirokeer, Rampie, LOP-P, kai8780, mii-chandesu
 Assist: PixPrucer, Tigermeat, Utau French Resources (Millefeuille), Team Coda, Team Brapa
 Growl: LOP-P
+Series: team1
 Web: https://shikeii.carrd.co/
 X: https://x.com/shikei_i
 YT: https://www.youtube.com/@shikeii
 TG: https://t.me/shikeii
 
-!S10
+!S11
 Name: Gahata Meiji
 Nameja: 歌幡メイジ
 Nameru: Гахата Мейджи
@@ -248,7 +282,7 @@ X: https://x.com/curomismiumiu
 YT: https://www.youtube.com/@curomismiumiu
 Web: https://curomismiumiu.wixsite.com/majolicamaiden
 
-!S11
+!S12
 Name: Karasu Yuutsukoe
 Nameja: 湯鬱声からす
 Nameru: Карасу Юутсукое
@@ -268,10 +302,11 @@ Info: The virtual singer
 Inforu: Виртуальный вокалист
 Infoja: バーチャルシンガー
 Prod: rev_bmp, PixPrucer, keirokeer, mii-chandesu, Rampie
+Series: team2
 X: https://x.com/rev_bmp
 YT: https://www.youtube.com/@rev_bmp
 
-!S12
+!S13
 Name: Kuro Bousuku
 Nameja: 黒昴宿
 Nameru: Куро Боску
@@ -292,11 +327,12 @@ Inforu: Виртуальный вокалист из Японии
 Infoja: 日本出身のバーチャルシンガー
 Prod: ATSUYA, keirokeer, LOP-P, mii-chandesu, Rampie
 Assist: rev_bmp, MapleStyle, PixPrucer, Tigermeat, Utau French Resources (Millefeuille), Team Coda, Team Brapa
+Series: team2
 X: https://x.com/aTSuYaMiCHiKuSa
 YT: https://www.youtube.com/@atsuya_2014
 Web: https://atsuya19960924.wixsite.com/akasubaru
 
-!S13
+!S14
 Name: Aka Subaru
 Nameja: 赤星河
 Nameru: Ака Субару
@@ -315,11 +351,12 @@ Inforu: Виртуальный вокалист из Японии
 Infoja: 日本出身のバーチャルシンガー
 Prod: ATSUYA, keirokeer, mii-chandesu, Rampie
 Assist: rev_bmp, MapleStyle, PixPrucer, Tigermeat, Utau French Resources (Millefeuille), Team Coda, Team Brapa
+Series: team2
 X: https://x.com/aTSuYaMiCHiKuSa
 YT: https://www.youtube.com/@atsuya_2014
 Web: https://atsuya19960924.wixsite.com/akasubaru
 
-!S14
+!S15
 Name: Amaboshi Cipher
 Nameja: 雨星サイファ
 Nameru: Амабоши Сайфер
@@ -341,7 +378,7 @@ Growl: LOP-P
 Web: https://parapluie2c56m.wixsite.com/mysite
 X: https://x.com/chikano1582
 
-!S15
+!S16
 Name: Denka Shaa
 Nameja: 電歌シャー
 Nameru: Денка Шаа
@@ -362,7 +399,7 @@ Infoja: 電車の音から生まれたバーチャルシンガー
 Prod: leonid kanevsky, keirokeer, mii-chandesu, Rampie
 YT: https://www.youtube.com/@leonidkanevsky202
 
-!S16
+!S17
 Name: Nessie
 Nameru: Несси
 Page: nessie
@@ -385,7 +422,7 @@ VK: https://vk.com/etonessie
 YT: https://www.youtube.com/@etonessie
 TG: https://t.me/etonessie
 
-!S17
+!S18
 Name: Ohne Kuno
 Nameja: 大音クノ
 Nameru: Онэ Куно
@@ -408,7 +445,7 @@ X: https://x.com/itsBellDan
 YT: https://www.youtube.com/@BellDan
 BB: https://space.bilibili.com/386213079
 
-!S18
+!S19
 Name: Natsume Juli
 Nameja: 夏目悠李
 Nameru: Нацумэ Джули
@@ -418,7 +455,6 @@ CV: Kirino Sohta
 Artist: UNF
 Gradient: #7ac9eaff, #1e7cb8ff
 ButtonColor: #379fcc
-Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Natsume_Juli_v170.zip
 VM: dark(Gentle, relaxed vocals;Нежный, расслабленный вокал)
 Mainlang: ja
