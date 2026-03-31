@@ -129,6 +129,14 @@
       "host": "lunai"
     },
     {
+      "name": "Memoka Ater",
+      "code": "memoka_ater",
+      "version": "170",
+      "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Memoka_Ater_v170.zip",
+      "company": "LUNAI Project",
+      "host": "lunai"
+    },
+    {
       "name": "Ohne Kuno",
       "code": "ohne_kuno",
       "version": "170",

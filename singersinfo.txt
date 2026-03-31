@@ -173,6 +173,34 @@ InfoCVru: Он путешествует, он ищет пармезан... Ху�
 YT: https://www.youtube.com/@ServerPodivan
 TG: https://t.me/TouToisan
 
+!S18
+Name: Memoka Ater
+Nameru: Мемока Атер
+Page: memoka_ater
+Original: 1
+Songs: dalyoko
+CV: mii-chandesu
+Artist: EtoNessie
+Altimg: Alternative illustration by shikeii
+Gradient: #C22D2Dff, #631919ff
+ButtonColor: #8A2727
+Tag: new
+Effect: stars
+DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Memoka_Ater_v170.zip
+VM: deep/powerful/tender/nasal/scream
+Mainlang: ru
+Videmo: Ou_JTbZrjDs
+Imgs: Alternative illustration by shikeii
+Info: The virtual singer based on the Russian VTuber Memoka Ater
+Inforu: Виртуальный вокалист, созданный на основе российского VTuber-а Memoka Ater
+Infoja: The virtual singer based on the Russian VTuber Memoka Ater
+Prod: keirokeer, mii-chandesu, Rampie
+Series: memes
+InfoCV: 🕯🌹
+YT: https://youtube.com/@mii_chandesu
+X: https://x.com/chandesu_mii
+Web: https://miichandesu.carrd.co/
+
 !S8
 Name: Allen Crow
 Nameru: Аллен Кроу
@@ -240,7 +268,6 @@ Artist: shikeii
 Altimg: SAiFA youthful by shikeii,SAiFA strong by shikeii
 Gradient: #3118bbff, #2811a6ff
 ButtonColor: #2a18b6
-Tag: new
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/SAiFA_v170.zip
 VM: strong(Powerful, intense vocals;Сильный, напряженный вокал)/youthful(Solid, young vocals;Твердый, молодой вокал)/cursive(Heavy, airy vocals;Тяжёлый, воздушный вокал)/soft(Gentle, relaxed vocals;Нежный, расслабленный вокал)/whisper(Unvoiced, true breathy vocals; Шепот, вокал с придыханием)+ex/growl
 Mainlang: ru
@@ -418,12 +445,13 @@ Inforu: Виртуальная вокалистка, созданная на о�
 Infoja: ロシアのVTuber EtoNessieを基にしたバーチャルシンガー
 Prod: keirokeer, mii-chandesu, Rampie
 Pitch: LOP-P
+Series: memes
 TW: https://www.twitch.tv/etonessie
 VK: https://vk.com/etonessie
 YT: https://www.youtube.com/@etonessie
 TG: https://t.me/etonessie
 
-!S18
+!S19
 Name: Ohne Kuno
 Nameja: 大音クノ
 Nameru: Онэ Куно
@@ -446,7 +474,7 @@ X: https://x.com/itsBellDan
 YT: https://www.youtube.com/@BellDan
 BB: https://space.bilibili.com/386213079
 
-!S19
+!S20
 Name: Natsume Juli
 Nameja: 夏目悠李
 Nameru: Нацумэ Джули
