@@ -180,17 +180,17 @@ Page: memoka_ater
 Original: 1
 Songs: dalyoko
 CV: mii-chandesu
-Artist: EtoNessie
-Altimg: Alternative illustration by shikeii
+Artist: shikeii
 Gradient: #C22D2Dff, #631919ff
 ButtonColor: #8A2727
+Animportrait: 1
 Tag: new
 Effect: stars
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Memoka_Ater_v170.zip
 VM: deep/powerful/tender/nasal/scream
 Mainlang: ru
 Videmo: Ou_JTbZrjDs
-Imgs: Alternative illustration by shikeii
+Imgs: Alternative illustration by EtoNessie
 Info: The virtual singer based on the Russian VTuber Memoka Ater
 Inforu: Виртуальный вокалист, созданный на основе российского VTuber-а Memoka Ater
 Infoja: The virtual singer based on the Russian VTuber Memoka Ater
@@ -295,6 +295,7 @@ CV: CuromiSaccu
 Artist: CuromiSaccu
 Gradient: #e26ebfff, #882e6dff
 ButtonColor: #b64e9f
+Effect: embers
 Animportrait: 1
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Gahata_Meiji_v170.zip
 VM: (The voice of a girl who had been dreaming through a frozen silence, the moment she quietly opened her eyes. A single breath of softness, a gentle sweetness still hiding a childlike secret.\n\nStandard is Meiji’s bare, unadorned voice. A passing whisper, a murmur spoken to soothe her solitude — everything melts straight into the music.\n\nNeutral, easy to shape.;Голос девушки, долго дремавшей в ледяной тишине — в момент, когда она тихо открывает глаза. Один вздох нежности, тихая сладость, в которой ещё таится детская тайна.\n\nStandard — это «голый», ничем не приукрашенный голос Мейджи. Мимолётный шёпот, бормотание, чтобы унять одиночество — всё тает и растворяется в музыке.\n\nНейтральный, податливый, словно врата в её мир.;凍りつくような静寂の中で長い夢を見続けていた少女がそっと目を開けたときの声。ひと呼吸ぶんの柔らかさと、幼い秘密を隠したままの静かな甘さ。\n\nStandard はメイジの“素声”のような存在です。ふとした囁きも、孤独を沈めるためのひとりごとも、そのまま曲に溶けていきます。\n\nニュートラルで扱いやすく、彼女の世界の入口となる声色。)/hunter(When Meiji wakes from her long sleep and draws her first sharp breath to face the world, the tension in her mid-range flies like an arrow, piercing the listener’s chest one note at a time.\n\nHunter is the embodiment of power — a voice infused with strength and intent.\n\nA sound of awakening, most resonant in rock, emo, and songs that demand speed and force.;Когда Мейджи просыпается от долгого сна и впервые резко вдыхает, встречая мир, напряжение среднего регистра летит, как стрела, пронзая грудь слушателя с каждой нотой.\n\nHunter — воплощение силы: голос, наполненный мощью и намерением.\n\nГолос пробуждения, лучше всего звучащий в роке, эмо и песнях, требующих скорости и напора.;眠りから覚めたメイジが、世界を見据えて初めて息を鋭く吸い込む瞬間。中音域の張りは矢のように放たれ、歌うたび、胸の奥をひとつずつ射抜いていきます。\n\nHunter はパワーの象徴。強さと意思を宿した声色です。\n\nロック、エモ、疾走感のある曲に最もよく響く、覚醒の声。)/lilith(Soft, light, and touched with a hint of allure. Lilith is the sound of that moment when Meiji thinks up a small mischief — a voice where that gently bouncing feeling turns straight into music.\n\nIt slips easily into delicate melodies and even into lullabies laced with poison, flitting whimsically between whisper and song.\n\nA delicate little devil, where Meiji’s most charming whims reveal themselves.;Мягкий, лёгкий, с оттенком обаяния. Lilith — это звук того момента, когда Мейджи задумывает маленькую шалость: голос, в котором нежно-игривое чувство прямо переливается в музыку.\n\nЛегко ложится на нежные мелодии и даже на колыбельные с примесью яда, порхая между шёпотом и пением.\n\nХрупкий маленький бес, в котором раскрываются самые очаровательные капризы Мейджи.;素直で、軽やかで、どこか艶が差し込む。Lilith は彼女が少しだけ悪戯を思いついたときの、あの“ふわりと跳ねる感情”がそのまま音になったような声色です。\n\n可憐な旋律にも、毒入りの子守歌にも馴染み、囁きと歌の間を気まぐれに行き来します。\n\n最も“メイジらしい気まぐれ”が表れる、繊細な小悪魔。)/phantom(Phantom is Meiji with her very presence thinned to a whisper. Her voice is like mist—slipping through the fingers, yet undeniably there, and when she sings, only the shadow seems to sway.\n\nIts breathy softness and the quiet loneliness hidden deep within balance each other with uncanny precision, creating a spectral tone that can sound languid or unexpectedly strong.\n\nIt rests most beautifully beside music steeped in decadence, ambient soundscapes, and dark, aesthetic worlds.;Phantom — это Мейджи, чьё присутствие истончено до шёпота. Голос как туман: ускользает сквозь пальцы, но незримо здесь, и когда она поёт, кажется, колышется лишь тень.\n\nДыхательная мягкость и тихая тоска, скрытая в глубине, с призрачной точностью уравновешивают друг друга — тон то томный, то неожиданно сильный.\n\nПрекраснее всего звучит рядом с музыкой декаданса, эмбиента и тёмных эстетических миров.;Phantom は存在の濃度をそっと下げたメイジ。声は霧のようで、指を通り抜けてしまう。けれど確かにそこにいて、歌えば影だけがゆっくりと揺れる。\n\n息寄りの柔らかさと、奥に潜む寂しさのバランスが絶妙で、気だるげにも強くも歌える幽気の声色。\n\n退廃、アンビエント、耽美な曲想に最も美しく寄り添う。)
@@ -321,6 +322,7 @@ Artist: rev_bmp
 Gradient: #d42e2eff, #741616ff
 ButtonColor: #b62121
 Animportrait: 1
+Effect: crows
 DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Karasu_Yuutsukoe_v160.zip
 VM: core(A solid voice with a classic tone;Твёрдый голос с классическим тембром)/defiant(A strong voice with a harsh tone;Сильный голос с резким тембром)/grim(A dark voice with a somber tone;Мрачный голос с сумрачным тембром)/hollow(A whispering voice with a gentle tone;Приглушённый, воздушный голос с мягким тембром)/plume(A melodic and nostalgic voice;Мелодичный и ностальгический голос)/rebellion(A nostalgic and emotional voice;Ностальгический и эмоциональный голос)/soaring(A vivid and bright voice;Живой и яркий голос)/growl
 Mainlang: ja
