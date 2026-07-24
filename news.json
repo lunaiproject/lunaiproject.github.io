@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "id": "1529549332695617757",
+      "date": "2026-07-22",
+      "title": "⚡ OpenUtau Lunai 0.2.1.0 is out! @everyone",
+      "content": "⚡ <strong>OpenUtau Lunai 0.2.1.0 is out!</strong> @everyone\n\n<em>What's new for DiffSinger:</em>\n• <strong>Project Expressions</strong> panel: set DiffSinger expression defaults per track\n• <strong>Singer styles</strong>: save and apply expression presets in one click\n• <strong>SBP</strong> Update and Fixes (PR by Cadlaxa)\n• Refined Phonemizer timing fixes (PR by overdramatic)\n\n<em>Themes & look:</em>\n• <strong>Theme Catalog</strong>: syncs community themes from GitHub (publishing your own themes to share with others is planned for a later update)\n• Color <strong>tint</strong> and <strong>temperature</strong>\n• Import (convert) classic OpenUtau themes to OpenUtau Lunai format\n• Note opacity and border thickness\n\n<em>General changes and fixes:</em>\n• Separate <strong>OpenUtau-Lunai</strong> data folder (shared singers): fixes many conflicts with other OpenUtau forks\n• Report issues via Discord / email\n• Updated translations from Crowdin (+ Arabic, Czech, Ukrainian added)\n• Merged 4 fix PRs from maiko3tattun: ALT alias revert, Ctrl note move, envelopes, and safer legacy-plugin DLL loading\n• Phonemizer menu filtered by engine\n• Phoneme panel auto-switches based on singer type\n• The left piano roll panel is now scrollable when it doesn’t fit on screen\n• Fixed some bugs and more...\n\nSimply open your OpenUtau Lunai to receive the update or <a href=\"https://lunaiproject.github.io/editor\" target=\"_blank\" rel=\"noopener noreferrer\">https://lunaiproject.github.io/editor</a>\n\nFound a bug? Let us know in <#1521944038952140942>",
+      "image": "discord-1529549332695617757.png"
+    },
+    {
+      "id": "1529552101854806222",
+      "date": "2026-07-22",
+      "title": "Quick note on the Theme Catalog: more themes will be added later and sync online. Sharing your own t",
+      "content": "Quick note on the <strong>Theme Catalog</strong>: more themes will be added later and sync online. Sharing your own themes is planned too! 🎨",
+      "image": "discord-1529552101854806222.png"
+    },
+    {
+      "id": "1525929157891199137",
+      "date": "2026-07-12",
+      "title": "OpenUtau Lunai 0.2.0.1 is out",
+      "content": "<strong>OpenUtau Lunai 0.2.0.1 is out</strong>\n\nSmall update, important bug fixes\n\n• <strong>About OpenUtau</strong>: a tribute to everyone who contributed to the original OpenUtau on GitHub. Our way of saying thank you to the community that built this editor. <em>Help → About OpenUtau</em>\n\n• Fixed display of the <strong>search bar (Ctrl+F)</strong> and <strong>lyric editor</strong> popup\n• Modernized dialog controls and DiffSinger toolbar presets\n• Fixed several <strong>light theme</strong> issues <em>(still not ready for convenient use)</em>\n\n• Playback no longer resumes stale audio after edits during pause <em>(experimental; disable in Preferences → Playback → Re-render after edits on play if needed)</em>\n\n• Expression list updates on singer change, theme/track color refresh, render progress bar, missing translations restored, and more\n\nPlus the latest upstream OpenUtau fixes merged in\n\nSimply open your OpenUtau Lunai to receive the update or <a href=\"https://lunaiproject.github.io/editor\" target=\"_blank\" rel=\"noopener noreferrer\">https://lunaiproject.github.io/editor</a>\n\nFound a bug? Let us know in <#1521944038952140942>",
+      "image": "discord-1525929157891199137.png"
+    },
+    {
+      "id": "1521943688509390898",
+      "date": "2026-07-01",
+      "title": "⚡ A new level of work with DiffSinger and UTAU @everyone",
+      "content": "⚡ <strong>A new level of work with DiffSinger and UTAU</strong> @everyone \n\nOpenUtau Lunai 0.2.0.0\n\nThis is an update we've been working on for a long time to make your experience with vocal synths convenient and customizable!\n\n<em>Simply open your OpenUtau Lunai to receive the update or <a href=\"https://lunaiproject.github.io/editor\" target=\"_blank\" rel=\"noopener noreferrer\">https://lunaiproject.github.io/editor</a></em>",
+      "image": "discord-1521943688509390898.png"
+    },
+    {
+      "id": "1521943823368851536",
+      "date": "2026-07-01",
+      "title": "New left panel in OpenUtau Lunai allows you to work more conveniently with features and settings. He",
+      "content": "New left panel in OpenUtau Lunai allows you to work more conveniently with features and settings. Here are some new ones:",
+      "image": "discord-1521943823368851536.png"
+    },
+    {
+      "id": "1521943893397213204",
+      "date": "2026-07-01",
+      "title": "When the Draw Pitch Tool (or other pitch-related tools) is selected, the Piano roll switches to a co",
+      "content": "When the Draw Pitch Tool (or other pitch-related tools) is selected, the Piano roll switches to a convenient darkened mode 🌃",
+      "image": "discord-1521943893397213204.png"
+    },
+    {
+      "id": "1521943934107127958",
+      "date": "2026-07-01",
+      "title": "UTAU support should now also be expanded and fully supported",
+      "content": "UTAU support should now also be expanded and fully supported",
+      "image": "discord-1521943934107127958.png"
+    },
+    {
+      "id": "1521944788184727694",
+      "date": "2026-07-01",
+      "title": "Overall, many test features from pull requests in the original OpenUtau repository have been added, ",
+      "content": "Overall, many test features from pull requests in the original OpenUtau repository have been added, thanks to everyone who contributed!\nIf you notice any bugs, you can text here: <#1521944038952140942>",
+      "image": null
+    },
+    {
       "id": "1488606458949013646",
       "date": "2026-03-31",
       "title": "Memoka Ater x LUNAI Project 🌟",
