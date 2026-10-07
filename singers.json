@@ -25,14 +25,6 @@
       "host": "lunai"
     },
     {
-      "name": "Liam Thorne",
-      "code": "liam",
-      "version": "170",
-      "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Liam_Thorne_v170.zip",
-      "company": "LUNAI Project",
-      "host": "lunai"
-    },
-    {
       "name": "Nero",
       "code": "nero",
       "version": "170",
@@ -53,14 +45,6 @@
       "code": "albus_korde",
       "version": "170",
       "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/Albus_Korde_v170.zip",
-      "company": "LUNAI Project",
-      "host": "lunai"
-    },
-    {
-      "name": "SAiFA",
-      "code": "saifa",
-      "version": "170",
-      "downloadUrl": "https://github.com/lunaiproject/lunai_singers/releases/download/170/SAiFA_v170.zip",
       "company": "LUNAI Project",
       "host": "lunai"
     },

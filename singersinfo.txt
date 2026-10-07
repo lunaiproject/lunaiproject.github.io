@@ -75,29 +75,6 @@ Growl: LOP-P
 Web: https://raiko-net.neocities.org/
 YT: https://www.youtube.com/@RAIKONENIGHTMARE
 
-!S4
-Name: Liam Thorne
-Nameru: Лиам Торн
-Page: liam
-Original: 1
-Songs: colorful,dalyoko,flashback,badapple,twinkle,boundary,stranded
-CV: Rampie
-Artist: shikeii
-Gradient: #716985ff, #1c1325ff
-ButtonColor: #514868
-Animportrait: 1
-DL: https://github.com/lunaiproject/lunai_singers/releases/download/170/Liam_Thorne_v170.zip
-VM: gentle(Young, whispery vocals;Нежный, тихий вокал)/tired(Closed, dark vocals;Закрытый вокал)/deep(Adult, classic vocals;Взрослый, классический вокал)/powerful(Clear, chest vocals;Сильный, грудной вокал)/aggressive(Bold, flexible vocals designed for rap;Дерзкий, гибкий вокал, предназначенный для рэпа)/rock(Bright, intense vocals;Звонкий, напряженный вокал)/crispy(Husky, sharp vocals;Сиплый, чёткий вокал)/vocal fry/growl
-Mainlang: ru
-Videmo: HTKCVtN2oqM
-Imgs: Liam Thorne by KUNGOM
-Info: The virtual singer from Russia
-Inforu: Виртуальный вокалист из России
-Infoja: ロシア出身のバーチャルシンガー
-Prod: Rampie, keirokeer, mii-chandesu
-X: https://x.com/Rampieeeee
-YT: https://www.youtube.com/@rampiemusic
-
 !S5
 Name: Nero
 Nameru: Нэро
@@ -260,6 +237,7 @@ TG: https://t.me/kaidorencovers
 Name: SAiFA
 Nameru: Сайфа
 Page: saifa
+Hidden: 1
 Effect: matrix
 Original: 1
 Songs: badapple,colorful,flashback,cantarella,dalyoko,twinkle,boundary,stranded,molihua
